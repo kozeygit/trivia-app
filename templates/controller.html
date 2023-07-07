@@ -1,314 +1,336 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.58" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.58">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='css/controller_style.css') }}"
+    />
 
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/controller_style.css') }}">
-
-    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link
+      rel="icon"
+      href="{{ url_for('static', filename='images/favicon.ico') }}"
+    />
 
     <title>{{ title }}</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <main>
-        <div class="container">
-            <div class="question">
-                <h1 id="question">
-                    {{ question }}
-                </h1>
-            </div>
-            <div class="answers" id="answers">
-                <button class="answer" onclick="reveal_answer(this)" type="button" id="1">
-                    <div class="answer-num">
-                        <p>1</p>
-                    </div>
-                    <div class="answer-answer">
-                        <p id="answer1">
-                            {{ answers[1]['text'] }}
-                        </p>
-                    </div>
-                    <div class="answer-score">
-                        <p id="points1">
-                            {{ answers[1]['points'] }}
-                        </p>
-                    </div>
-                </button>
-
-                <button class="answer" onclick="reveal_answer(this)" type="button" id="2">
-                    <div class="answer-num">
-                        <p>2</p>
-                    </div>
-                    <div class="answer-answer">
-                        <p id="answer2">
-                            {{ answers[2]['text'] }}
-                        </p>
-                    </div>
-                    <div class="answer-score">
-                        <p id="points2">
-                            {{ answers[2]['points'] }}
-                        </p>
-                    </div>
-                </button>
-
-                <button class="answer" onclick="reveal_answer(this)" type="button" id="3">
-                    <div class="answer-num">
-                        <p>3</p>
-                    </div>
-                    <div class="answer-answer">
-                        <p id="answer3">
-                            {{ answers[3]['text'] }}
-                        </p>
-                    </div>
-                    <div class="answer-score">
-                        <p id="points3">
-                            {{ answers[3]['points'] }}
-                        </p>
-                    </div>
-                </button>
-
-                <button class="answer" onclick="reveal_answer(this)" type="button" id="4">
-                    <div class="answer-num">
-                        <p>4</p>
-                    </div>
-                    <div class="answer-answer">
-                        <p id="answer4">
-                            {{ answers[4]['text'] }}
-                        </p>
-                    </div>
-                    <div class="answer-score">
-                        <p id="points4">
-                            {{ answers[4]['points'] }}
-                        </p>
-                    </div>
-                </button>
-
-                <button class="answer" onclick="reveal_answer(this)" type="button" id="5">
-                    <div class="answer-num">
-                        <p>5</p>
-                    </div>
-                    <div class="answer-answer">
-                        <p id="answer5">
-                            {{ answers[5]['text'] }}
-                        </p>
-                    </div>
-                    <div class="answer-score">
-                        <p id="points5">
-                            {{ answers[5]['points'] }}
-                        </p>
-                    </div>
-                </button>
-
-            </div>
-            <div class="stats">
-                <div id="wrong-answer">{{ wrong_answers }}</div>
-                <div id="buzzer-active">🤷‍♂️</div>
-                <div id="round-points"> {{ total_points }}</div>
-            </div>
-            <div class="answer-btns">
-                <button class="wrong-answer-btn" onclick="wrong_answer()" type="button">
-                    <p>Wrong Answer</p>
-                </button>
-                <button class="reveal-btn" onclick="reveal_question()" type="button">
-                    <p>reveal question</p>
-                </button>
-            </div>
-            <div class="buzzer-btns">
-                <button class="buzzer-btn" onclick="activate_buzzers()" type="button">
-                    <p>BUZZERS ON</p>
-                </button>
-                <button class="buzzer-btn" onclick="deactivate_buzzers()" type="button">
-                    <p>BUZZERS OFF</p>
-                </button>
-            </div>
-            <button class="new_question-btn" onclick="new_question()" type="button">
-                <p>New Question</p>
-            </button>
-            <div class="sound-btns">
-                <button class="sound-btn" onclick="play_sound('timer')" type="button">
-                    <p>Timer</p>
-                </button>
-                <button class="sound-btn" onclick="play_sound('intro')" type="button">
-                    <p>Intro</p>
-                </button>
-                <button class="sound-btn" onclick="play_sound('laugh')" type="button">
-                    <p>Laugh</p>
-                </button>
-                <button class="sound-btn" onclick="play_sound('hold')" type="button">
-                    <p>Hold</p>
-                </button>
-            </div>
-            <div id="connection-status"></div>
+      <div class="container">
+        <div class="question">
+          <h1 id="question">{{ question }}</h1>
         </div>
+        <div class="answers" id="answers">
+          <button
+            class="answer"
+            onclick="reveal_answer(this)"
+            type="button"
+            id="1"
+          >
+            <div class="answer-num">
+              <p>1</p>
+            </div>
+            <div class="answer-answer">
+              <p id="answer1">{{ answers[1]['text'] }}</p>
+            </div>
+            <div class="answer-score">
+              <p id="points1">{{ answers[1]['points'] }}</p>
+            </div>
+          </button>
+
+          <button
+            class="answer"
+            onclick="reveal_answer(this)"
+            type="button"
+            id="2"
+          >
+            <div class="answer-num">
+              <p>2</p>
+            </div>
+            <div class="answer-answer">
+              <p id="answer2">{{ answers[2]['text'] }}</p>
+            </div>
+            <div class="answer-score">
+              <p id="points2">{{ answers[2]['points'] }}</p>
+            </div>
+          </button>
+
+          <button
+            class="answer"
+            onclick="reveal_answer(this)"
+            type="button"
+            id="3"
+          >
+            <div class="answer-num">
+              <p>3</p>
+            </div>
+            <div class="answer-answer">
+              <p id="answer3">{{ answers[3]['text'] }}</p>
+            </div>
+            <div class="answer-score">
+              <p id="points3">{{ answers[3]['points'] }}</p>
+            </div>
+          </button>
+
+          <button
+            class="answer"
+            onclick="reveal_answer(this)"
+            type="button"
+            id="4"
+          >
+            <div class="answer-num">
+              <p>4</p>
+            </div>
+            <div class="answer-answer">
+              <p id="answer4">{{ answers[4]['text'] }}</p>
+            </div>
+            <div class="answer-score">
+              <p id="points4">{{ answers[4]['points'] }}</p>
+            </div>
+          </button>
+
+          <button
+            class="answer"
+            onclick="reveal_answer(this)"
+            type="button"
+            id="5"
+          >
+            <div class="answer-num">
+              <p>5</p>
+            </div>
+            <div class="answer-answer">
+              <p id="answer5">{{ answers[5]['text'] }}</p>
+            </div>
+            <div class="answer-score">
+              <p id="points5">{{ answers[5]['points'] }}</p>
+            </div>
+          </button>
+        </div>
+        <div class="stats">
+          <div id="wrong-answer">{{ wrong_answers }}</div>
+          <div id="buzzer-active">🤷‍♂️</div>
+          <div id="round-points">{{ total_points }}</div>
+        </div>
+        <div class="answer-btns">
+          <button
+            class="wrong-answer-btn"
+            onclick="wrong_answer()"
+            type="button"
+          >
+            <p>Wrong Answer</p>
+          </button>
+          <button class="reveal-btn" onclick="reveal_question()" type="button">
+            <p>reveal question</p>
+          </button>
+        </div>
+        <div class="buzzer-btns">
+          <button class="buzzer-btn" onclick="activate_buzzers()" type="button">
+            <p>BUZZERS ON</p>
+          </button>
+          <button
+            class="buzzer-btn"
+            onclick="deactivate_buzzers()"
+            type="button"
+          >
+            <p>BUZZERS OFF</p>
+          </button>
+        </div>
+        <button class="new_question-btn" onclick="new_question()" type="button">
+          <p>New Question</p>
+        </button>
+        <div class="sound-btns">
+          <button class="sound-btn" onclick="play_sound('timer')" type="button">
+            <p>Timer</p>
+          </button>
+          <button class="sound-btn" onclick="play_sound('intro')" type="button">
+            <p>Intro</p>
+          </button>
+          <button class="sound-btn" onclick="play_sound('laugh')" type="button">
+            <p>Laugh</p>
+          </button>
+          <button class="sound-btn" onclick="play_sound('hold')" type="button">
+            <p>Hold</p>
+          </button>
+        </div>
+        <div id="connection-status"></div>
+      </div>
     </main>
-</body>
+  </body>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"
     integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA=="
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous"
+  ></script>
 
-<script>
-
+  <script>
     var socket = io();
 
     const round_data = {
-        wrong_answers: 0,
-        total_points: 0,
-        question_revealed: false,
-        answers_revealed: [false, false, false, false, false],
-        round_over: 0
-    }
-
-    function play_sound(sound) {
-        navigator.vibrate(50)
-        socket.emit("play_sound", sound)
+      wrong_answers: 0,
+      total_points: 0,
+      question_revealed: false,
+      answers_revealed: [false, false, false, false, false],
+      round_over: 0,
     };
 
-    document.addEventListener("DOMContentLoaded", function () {
-        socket.emit("get_round_data");
-    });
-    
-    socket.on("give_round_data", (data) => {
-        round_data.wrong_answers = data['wrong_answers'];
-        round_data.total_points = data["total_points"];
-        round_data.question_revealed = data["question_revealed"];
-        round_data.answers_revealed = data["answers_revealed"];
-        round_data.round_over = data["round_over"];
+    function play_sound(sound) {
+      navigator.vibrate(50);
+      socket.emit("play_sound", sound);
+    }
 
-        const wrong_answer_div = document.getElementById('wrong-answer');
-        wrong_answer_div.innerText = data["wrong_answers"];
+    document.addEventListener("DOMContentLoaded", function () {
+      socket.emit("get_round_data");
+    });
+
+    socket.on("give_round_data", (data) => {
+      round_data.wrong_answers = data["wrong_answers"];
+      round_data.total_points = data["total_points"];
+      round_data.question_revealed = data["question_revealed"];
+      round_data.answers_revealed = data["answers_revealed"];
+      round_data.round_over = data["round_over"];
+
+      const wrong_answer_div = document.getElementById("wrong-answer");
+      wrong_answer_div.innerText = data["wrong_answers"];
     });
 
     socket.on("give_wrong_answers", (data) => {
-        round_data.wrong_answers = data;
-        const wrong_answer_div = document.getElementById('wrong-answer');
-        wrong_answer_div.innerText = round_data.wrong_answers;
+      round_data.wrong_answers = data;
+      const wrong_answer_div = document.getElementById("wrong-answer");
+      wrong_answer_div.innerText = round_data.wrong_answers;
     });
 
     socket.on("give_total_points", (data) => {
-        round_data.total_points = data;
-        const total_points = document.getElementById('round-points');
-        total_points.innerText = round_data.total_points;
-
+      round_data.total_points = data;
+      const total_points = document.getElementById("round-points");
+      total_points.innerText = round_data.total_points;
     });
 
     socket.on("give_answers_revealed", (data) => {
-        round_data.answers_revealed = data;
+      round_data.answers_revealed = data;
 
-        const answers = document.getElementById('answers').children;
+      const answers = document.getElementById("answers").children;
 
-        for (let i=0; i < answers.length; i++) {
-            if (round_data.answers_revealed[i+1]) {
-                answers[i].style.backgroundColor = "grey";
-            } else {
-                answers[i].style.backgroundColor = "lightgreen";
-            }
+      for (let i = 0; i < answers.length; i++) {
+        if (round_data.answers_revealed[i + 1]) {
+          answers[i].style.backgroundColor = "grey";
+        } else {
+          answers[i].style.backgroundColor = "lightgreen";
         }
+      }
     });
 
     socket.on("give_round_over", (data) => {
-        round_data.round_over = data;
+      round_data.round_over = data;
     });
 
     socket.on("give_buzzer_state", (data) => {
-        round_data.buzzers_active = data;
-        const buzz = document.getElementById("buzzer-active")
-        if (round_data.buzzers_active) {
-            buzz.innerText = "✔️"
-        } else {
-            buzz.innerText = "❌"
-        }
+      round_data.buzzers_active = data;
+      const buzz = document.getElementById("buzzer-active");
+      if (round_data.buzzers_active) {
+        buzz.innerText = "✔️";
+      } else {
+        buzz.innerText = "❌";
+      }
     });
 
-    
-    
-    setInterval(function() {
-        const con_stat = document.getElementById("connection-status")
-        if (socket.connected) {
-            con_stat.innerText = "✔️"
-        } else {
-            con_stat.innerText = "❌"
-        }
-    }, 2000)
+    setInterval(function () {
+      const con_stat = document.getElementById("connection-status");
+      if (socket.connected) {
+        con_stat.innerText = "✔️";
+      } else {
+        con_stat.innerText = "❌";
+      }
+    }, 2000);
 
     socket.on("give_current_question", (question_json) => {
-        console.log(question_json)
+      console.log(question_json);
 
-        document.getElementsByClassName("reveal-btn")[0].style.backgroundColor = "lightskyblue";
-        document.getElementsByClassName("reveal-btn")[0].disabled = false
+      document.getElementsByClassName("reveal-btn")[0].style.backgroundColor =
+        "lightskyblue";
+      document.getElementsByClassName("reveal-btn")[0].disabled = false;
 
-        document.getElementById("question").innerText = question_json.question;
- 
-        document.getElementById("answer1").innerText = question_json.answer1.text;
-        document.getElementById("answer2").innerText = question_json.answer2.text;
-        document.getElementById("answer3").innerText = question_json.answer3.text;
-        document.getElementById("answer4").innerText = question_json.answer4.text;
-        document.getElementById("answer5").innerText = question_json.answer5.text;
+      document.getElementById("question").innerText = question_json.question;
 
-        document.getElementById("points1").innerText = question_json.answer1.points;
-        document.getElementById("points2").innerText = question_json.answer2.points;
-        document.getElementById("points3").innerText = question_json.answer3.points;
-        document.getElementById("points4").innerText = question_json.answer4.points;
-        document.getElementById("points5").innerText = question_json.answer5.points;
+      document.getElementById("answer1").innerText = question_json.answer1.text;
+      document.getElementById("answer2").innerText = question_json.answer2.text;
+      document.getElementById("answer3").innerText = question_json.answer3.text;
+      document.getElementById("answer4").innerText = question_json.answer4.text;
+      document.getElementById("answer5").innerText = question_json.answer5.text;
+
+      document.getElementById("points1").innerText =
+        question_json.answer1.points;
+      document.getElementById("points2").innerText =
+        question_json.answer2.points;
+      document.getElementById("points3").innerText =
+        question_json.answer3.points;
+      document.getElementById("points4").innerText =
+        question_json.answer4.points;
+      document.getElementById("points5").innerText =
+        question_json.answer5.points;
     });
 
     function activate_buzzers() {
-        socket.emit("controller_set_buzzer_state", true)
-        const buzz = document.getElementById("buzzer-active")
-        buzz.innerText = "✔️"
-        navigator.vibrate(300)
+      socket.emit("controller_set_buzzer_state", true);
+      const buzz = document.getElementById("buzzer-active");
+      buzz.innerText = "✔️";
+      navigator.vibrate(300);
     }
 
     function deactivate_buzzers() {
-        socket.emit("controller_set_buzzer_state", false)
-        navigator.vibrate([100,100,100])
+      socket.emit("controller_set_buzzer_state", false);
+      navigator.vibrate([100, 100, 100]);
     }
 
     function new_question() {
-        navigator.vibrate(100)
-        document.getElementsByClassName("reveal-btn")[0].style.backgroundColor = "grey";
-        document.getElementsByClassName("reveal-btn")[0].disabled = true
+      navigator.vibrate(100);
+      document.getElementsByClassName("reveal-btn")[0].style.backgroundColor =
+        "grey";
+      document.getElementsByClassName("reveal-btn")[0].disabled = true;
 
-        const answers = document.getElementById('answers').children;
-        for (let answer of answers) {
-            answer.style.backgroundColor = "grey"
-            answer.disabled = true;
-        }
+      const answers = document.getElementById("answers").children;
+      for (let answer of answers) {
+        answer.style.backgroundColor = "grey";
+        answer.disabled = true;
+      }
 
-        socket.emit("controller_new_question");
-    };
+      socket.emit("controller_new_question");
+    }
 
     function reveal_question() {
-        navigator.vibrate(100)
+      navigator.vibrate(100);
 
-        const answers = document.getElementById('answers').children;
+      const answers = document.getElementById("answers").children;
 
-        
-        document.getElementsByClassName("reveal-btn")[0].style.backgroundColor = "grey";
-        document.getElementsByClassName("reveal-btn")[0].disabled = true
-        
-        socket.emit("get_answers_revealed")
-        socket.emit("controller_reveal_question")
+      document.getElementsByClassName("reveal-btn")[0].style.backgroundColor =
+        "grey";
+      document.getElementsByClassName("reveal-btn")[0].disabled = true;
+
+      socket.emit("get_answers_revealed");
+      socket.emit("controller_reveal_question");
     }
 
     function reveal_answer(button) {
-        let num = parseInt(button.id);
+      let num = parseInt(button.id);
 
-        navigator.vibrate([50, 30, 50, 30, 50])
-        socket.emit("controller_reveal_answer", num);
-    };
+      navigator.vibrate([50, 30, 50, 30, 50]);
+      socket.emit("controller_reveal_answer", num);
+    }
 
     function wrong_answer() {
-        socket.emit("controller_wrong_answer");
-        navigator.vibrate([500])
-    };
-
-</script>
-
+      socket.emit("controller_wrong_answer");
+      navigator.vibrate([500]);
+    }
+  </script>
 </html>

@@ -13,32 +13,47 @@ class Question:
         self.question_dict = {}
         self.new_question()
 
-
     def new_question(self):
         self.question_dict = random.choice(Question.ALL_QUESTIONS)
 
-    def new_random_questions(self, amount=None, category=None, difficulty=None, type=None):
-        
+    def new_random_questions(
+        self, amount=None, category=None, difficulty=None, type=None
+    ):
         questions = self.ALL_QUESTIONS
 
         if category:
-            questions = [question for question in questions if question["category"].lower() == category.lower()]
+            questions = [
+                question
+                for question in questions
+                if question["category"].lower() == category.lower()
+            ]
 
         if difficulty:
-            questions = [question for question in questions if question["difficulty"].lower() == difficulty.lower()]
+            questions = [
+                question
+                for question in questions
+                if question["difficulty"].lower() == difficulty.lower()
+            ]
 
         if type:
-            questions = [question for question in questions if question["type"].lower() == type.lower()]
+            questions = [
+                question
+                for question in questions
+                if question["type"].lower() == type.lower()
+            ]
 
-        if amount: 
+        if amount:
             self.random_questions = random.sample(questions, amount)
         else:
             self.random_questions = questions
-        
 
-    def get_random_questions(self, new=False, amount=None, category=None, difficulty=None, type=None):
+    def get_random_questions(
+        self, new=False, amount=None, category=None, difficulty=None, type=None
+    ):
         if new:
-            self.new_random_questions(amount=amount, category=category, difficulty=difficulty, type=type)
+            self.new_random_questions(
+                amount=amount, category=category, difficulty=difficulty, type=type
+            )
 
         return self.random_questions
 
@@ -47,8 +62,10 @@ class Question:
             data = self.question_dict[i]
             print(f"{i}: {data}")
 
-        
 
 q = Question()
 
-[print(f"\n{i}") for i in q.get_random_questions(new=True, amount=None, difficulty="hard", type="boolean")]
+for i in q.get_random_questions(
+    new=True, amount=None, difficulty="hard", type="boolean"
+):
+    print(f"\n{i}")

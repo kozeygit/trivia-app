@@ -111,7 +111,6 @@ h1 {
   background-color: lightcoral;
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50px;
-
 }
 
 .new_question-btn {
@@ -155,23 +154,23 @@ h1 {
   background-color: lightgoldenrodyellow;
 }
 
-.sound-btn > p::before{
+.sound-btn > p::before {
   content: "🎵 - ";
 }
 
-.sound-btn:nth-child(2){
+.sound-btn:nth-child(2) {
   border-top-right-radius: 25px;
 }
 
-.sound-btn:nth-child(1){
+.sound-btn:nth-child(1) {
   border-top-left-radius: 25px;
 }
 
-.sound-btn:nth-child(4){
+.sound-btn:nth-child(4) {
   border-bottom-right-radius: 25px;
 }
 
-.sound-btn:nth-child(3){
+.sound-btn:nth-child(3) {
   border-bottom-left-radius: 25px;
 }
 
