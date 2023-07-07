@@ -1,0 +1,4771 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+    "correct_answer": "Economics",
+    "incorrect_answers": ["Philosophy", "Politics", "Physics"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+    "correct_answer": "Demolition",
+    "incorrect_answers": [
+      "The Dream Team",
+      "The Bushwhackers",
+      "The British Bulldogs"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Area 51 is located in which US state?",
+    "correct_answer": "Nevada",
+    "incorrect_answers": ["Arizona", "New Mexico", "Utah"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How would one say goodbye in Spanish?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": [" Hola", "Au Revoir", "Salir"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sign of the zodiac is represented by the Crab?",
+    "correct_answer": "Cancer",
+    "incorrect_answers": ["Libra", "Virgo", "Sagittarius"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correct_answer": "S",
+    "incorrect_answers": ["O", "A", "C"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+    "correct_answer": "Subscriber",
+    "incorrect_answers": ["Single", "Secure", "Solid"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What alcoholic drink is made from molasses?",
+    "correct_answer": "Rum",
+    "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+    "correct_answer": "Government",
+    "incorrect_answers": ["Going", "Ghost", "Geronimo"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was &quot;YouTube&quot; founded?",
+    "correct_answer": "February 14, 2005",
+    "incorrect_answers": ["May 22, 2004", "September 12, 2005", "July 19, 2009"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2013 how much money was lost by Nigerian scams?",
+    "correct_answer": "$12.7 Billion",
+    "incorrect_answers": ["$95 Million", "$956 Million", "$2.7 Billion"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many colors are there in a rainbow?",
+    "correct_answer": "7",
+    "incorrect_answers": ["8", "9", "10"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is not another name for the eggplant?",
+    "correct_answer": "Potimarron",
+    "incorrect_answers": ["Brinjal", "Guinea Squash", "Melongene"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the destination of the missing flight MH370?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": ["Kuala Lumpur", "Singapore", "Tokyo"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What alcoholic drink is mainly made from juniper berries?",
+    "correct_answer": "Gin",
+    "incorrect_answers": ["Vodka", "Rum", "Tequila"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "correct_answer": "Fiat",
+    "incorrect_answers": ["Maserati", "Alfa Romeo", "Ferrari"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "correct_answer": "Spruce Goose",
+    "incorrect_answers": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these colours is NOT featured in the logo for Google?",
+    "correct_answer": "Pink",
+    "incorrect_answers": ["Yellow", "Blue", "Green"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+    "correct_answer": "Madeon",
+    "incorrect_answers": ["Mat Zo", "deadmau5", "Zedd"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+    "correct_answer": "Thing",
+    "incorrect_answers": ["People", "Place", "Pineapple"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "correct_answer": "1 Month",
+    "incorrect_answers": ["3 Weeks", "1 Week", "2 Months"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": ["Interrobang", "Tilde", "Pilcrow"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these is not a typical European sword design?",
+    "correct_answer": "Scimitar",
+    "incorrect_answers": ["Falchion", "Ulfberht", "Flamberge"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+    "correct_answer": "Truth",
+    "incorrect_answers": ["Answer", "Cause", "Source"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following carbonated soft drinks were introduced first?",
+    "correct_answer": "Dr. Pepper",
+    "incorrect_answers": ["Coca-Cola", "Sprite", "Mountain Dew"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Poland in Polish?",
+    "correct_answer": "Polska",
+    "incorrect_answers": ["Pupcia", "Polszka", "P&oacute;land"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What direction does the Statue of Liberty face?",
+    "correct_answer": "Southeast",
+    "incorrect_answers": ["Southwest", "Northwest", "Northeast"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+    "correct_answer": "Twilight Zone Tower of Terror",
+    "incorrect_answers": [
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan&#039;s Flight"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following card games revolves around numbers and basic math?",
+    "correct_answer": "Uno",
+    "incorrect_answers": ["Go Fish", "Twister", "Munchkin"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+    "correct_answer": "28%",
+    "incorrect_answers": ["13%", "20%", "7%"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who invented Pastafarianism?",
+    "correct_answer": "Bobby Henderson",
+    "incorrect_answers": ["Eric Tignor", "Bill Nye", "Zach Soldi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+    "correct_answer": "We Love to See You Smile",
+    "incorrect_answers": [
+      "Why Pay More!?",
+      "Have It Your Way",
+      "Making People Happy Through Food"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the original name of the search engine &quot;Google&quot;?",
+    "correct_answer": "BackRub",
+    "incorrect_answers": ["CatMassage", "SearchPro", "Netscape Navigator"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Named after the mallow flower, mauve is a shade of what?",
+    "correct_answer": "Purple",
+    "incorrect_answers": ["Red", "Brown", "Pink"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Chartreuse is a color between yellow and what?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Black", "Purple"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these words means &quot;idle spectator&quot;?",
+    "correct_answer": "Gongoozler",
+    "incorrect_answers": ["Gossypiboma", "Jentacular", "Meupareunia"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which fast food chain can you order a Jamocha Shake?",
+    "correct_answer": "Arby&#039;s",
+    "incorrect_answers": ["McDonald&#039;s", "Burger King", "Wendy&#039;s"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+    "correct_answer": "Monty Python",
+    "incorrect_answers": [
+      "The Goodies&lrm;",
+      "The League of Gentlemen&lrm;",
+      "The Penny Dreadfuls"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A pasodoble is a type of Italian pasta sauce.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When someone is cowardly, they are said to have what color belly?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": ["Green", "Red", "Blue"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the full title of the Prime Minister of the UK?",
+    "correct_answer": "First Lord of the Treasury",
+    "incorrect_answers": [
+      "Duke of Cambridge",
+      "Her Majesty&#039;s Loyal Opposition",
+      "Manager of the Crown Estate"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "correct_answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the youngest person to recieve a Nobel Prize?",
+    "correct_answer": "Malala Yousafzai",
+    "incorrect_answers": [
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is not an Ivy League University?",
+    "correct_answer": "Stanford",
+    "incorrect_answers": ["University of Pennsylvania", "Harvard", "Princeton"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+    "correct_answer": "Labrador Retriever",
+    "incorrect_answers": ["Golden Retriever", "Dalmatian", "Shiba Inu"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+    "correct_answer": "Michael Keaton",
+    "incorrect_answers": ["George Clooney", "Val Kilmer", "Adam West"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+    "correct_answer": "Hogarth Hughes",
+    "incorrect_answers": ["Kent Mansley", "Dean McCoppin", "Annie Hughes"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+    "correct_answer": "Uma Thurman",
+    "incorrect_answers": ["Kathy Griffin", "Pam Grier", "Bridget Fonda"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [" Clint Eastwood", "Leonardo DiCaprio", "Ben Stiller"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "correct_answer": "Scarface",
+    "incorrect_answers": ["Reservoir Dogs", "Heat", "Goodfellas"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+    "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+    "incorrect_answers": ["Christopher Nolan", "David Fincher", "Wes Anderson"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+    "correct_answer": "Gort",
+    "incorrect_answers": ["Robby", "Colossus", "Box"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+    "correct_answer": "Twin Ion Engine",
+    "incorrect_answers": [
+      "Twin Iron Engine",
+      "Twin Intercepter Engine",
+      "Twin Inception Engine"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+    "correct_answer": "Karl Ruprecht Kroenen",
+    "incorrect_answers": [
+      "Klaus Werner von Krupt",
+      "Grigori Efimovich Rasputin",
+      "Ilsa Haupstein"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What did the first moving picture depict?",
+    "correct_answer": "A galloping horse",
+    "incorrect_answers": [
+      "A woman in a dress",
+      "A man walking",
+      "A crackling fire"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who plays Alice in the Resident Evil movies?",
+    "correct_answer": "Milla Jovovich",
+    "incorrect_answers": ["Madison Derpe", "Milla Johnson", "Kim Demp"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+    "correct_answer": "Gelatin",
+    "incorrect_answers": ["Dye", "Paint", "CGI Effect"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "correct_answer": "Victoria",
+    "incorrect_answers": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+    "correct_answer": "The Shining",
+    "incorrect_answers": [
+      "2001: A Space Odyssey",
+      " Dr. Strangelove ",
+      "Eyes Wide Shut"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+    "correct_answer": "Men of Harlech",
+    "incorrect_answers": [
+      "Scotland the Brave",
+      "Colonel Bogey March",
+      "The British Grenadiers"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+    "correct_answer": "Romani Ite Domum",
+    "incorrect_answers": [
+      "Romans Go Home",
+      "Roxani Ite Domum",
+      "Tomate Ite Domum"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
+    "correct_answer": "Ewan McGregor",
+    "incorrect_answers": ["Alec Guinness", "Hayden Christensen", "Liam Neeson"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+    "correct_answer": "Air",
+    "incorrect_answers": ["The Schwartz", "Princess Lonestar", "Meatballs"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+    "correct_answer": "Tom Bombadil",
+    "incorrect_answers": ["Strider", "Barliman Butterbur", "Celeborn"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+    "correct_answer": "Animalympics",
+    "incorrect_answers": [
+      "The Fox and the Hound",
+      "The Black Cauldron",
+      "The Great Mouse Detecive"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+    "correct_answer": "Gunnar Hansen",
+    "incorrect_answers": ["Edwin Neal", "John Dugan", "Joe Bill Hogan"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+    "correct_answer": "Nick Offerman",
+    "incorrect_answers": ["Liam Neeson", "Morgan Freeman", "Will Arnet"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the protagonist in the movie Commando (1985)?",
+    "correct_answer": "John Matrix",
+    "incorrect_answers": ["Ben Richards", "Douglas Quaid", "Harry Tasker"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+    "correct_answer": "Doug Bradley",
+    "incorrect_answers": ["Doug Jones", "Doug Savant", "Doug Benson"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+    "correct_answer": "Atreyu",
+    "incorrect_answers": ["Atrayu", "Atraiyu", "Atraeyu"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+    "correct_answer": "Replicants",
+    "incorrect_answers": ["Cylons", "Synthetics", "Skinjobs"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?",
+    "correct_answer": "To replace Picard as a Romulan Agent",
+    "incorrect_answers": [
+      "To destroy the Enterprise",
+      "To become Picard&#039;s friend ",
+      "To steal the Enterprise"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Actor Tommy Chong served prison time.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+    "correct_answer": "1992 Ford Explorer XLT",
+    "incorrect_answers": [
+      "1992 Toyota Land Cruiser",
+      "1992 Jeep Wrangler YJ Sahar",
+      "Mercedes M-Class"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+    "correct_answer": "2005",
+    "incorrect_answers": ["2007", "2015", "2020"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+    "correct_answer": "Masrani Global Corporation ",
+    "incorrect_answers": [
+      "Biology Synthetics Technologies",
+      "International Genetics Incorporated",
+      "International Genetic Technologies"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+    "correct_answer": "1985",
+    "incorrect_answers": ["1988", "1986", "1993"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+    "correct_answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+    "incorrect_answers": [
+      "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+      "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+      "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+    "correct_answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "incorrect_answers": [
+      "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+      "Yul Brynner, Steve McQueen, and Charles Bronson",
+      "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+    "correct_answer": "Sigourney Weaver",
+    "incorrect_answers": [
+      "Jessica Chastain",
+      "Melissa Beckett",
+      "Alyssa Monroe "
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+    "correct_answer": "Dysentery",
+    "incorrect_answers": ["Anemia", "Constipation", "Acid Reflux "]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+    "correct_answer": "Yautja",
+    "incorrect_answers": ["Xenomorph", "Praetorian", "Phocrex"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+    "correct_answer": "San Francisco",
+    "incorrect_answers": ["Los Angeles", "Sacramento", "San Jose"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+    "correct_answer": "Drums",
+    "incorrect_answers": ["Saxophone", "Violin", "Actual Live Birds Singing"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+    "correct_answer": "Elton John",
+    "incorrect_answers": ["Lady Gaga", "Rihanna", "Justin Bieber"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who did the score to the original Blade Runner?",
+    "correct_answer": "Vangelis",
+    "incorrect_answers": ["Kitaro", "Yanni", "Enya"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+    "correct_answer": "Heroin",
+    "incorrect_answers": ["Cocaine", "Marijuana", "Oxycodone"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+    "correct_answer": "Benjamin Franklin Gates",
+    "incorrect_answers": [
+      "Thomas Jefferson Walker",
+      "George Washington Swanson",
+      "John Quincy Beckett"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+    "correct_answer": "Shambala",
+    "incorrect_answers": ["Peace", "Ancient", "Chakra"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+    "correct_answer": "$6 Million",
+    "incorrect_answers": ["$20,000", "$1 Million", "$10 Million"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+    "correct_answer": "Minnesota",
+    "incorrect_answers": ["North Dakota", "South Dakota", "Wisconsin"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+    "correct_answer": "Elvis Presley",
+    "incorrect_answers": ["Johnny Cash", "Hank Williams, Sr.", "Buddy Holly"]
+  },
+
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+    "correct_answer": "Madeon",
+    "incorrect_answers": ["Daft Punk ", "Disclosure", "David Guetta"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band had hits in 1972 with the songs &quot;Baby I&#039;m A Want You&quot;, &quot;Everything I Own&quot; and &quot;The Guitar Man&quot;",
+    "correct_answer": "Bread",
+    "incorrect_answers": ["America", "Chicago", "Smokie"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The music group Daft Punk got their name from a negative review they recieved.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who had a 1976 hit with the song &#039;You Make Me Feel Like Dancing&#039;?",
+    "correct_answer": "Leo Sayer",
+    "incorrect_answers": ["Elton John", "Billy Joel", "Andy Gibb"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The music video to The Buggle&#039;s &quot;Video Killed the Radio Star&quot; was the first music video to broadcast on MTV.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the primary lyricist for Canadian progressive rock band Rush?",
+    "correct_answer": "Neil Peart",
+    "incorrect_answers": ["Geddy Lee", "Alex Lifeson", "John Rutsey"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+    "correct_answer": "John McVie",
+    "incorrect_answers": ["Christine McVie", "Mac McAnally", "David Tennant"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
+    "correct_answer": "Trance",
+    "incorrect_answers": ["House", "Drum and Bass", "Dubstep"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+    "correct_answer": "Alesso",
+    "incorrect_answers": ["Steve Angello", "Sebastian Ingrosso", "Axwell"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+    "correct_answer": "Entra&ntilde;as",
+    "incorrect_answers": ["&amp;&amp;&amp;&amp;&amp;&amp;", "Sheep", "Xen"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the British term for a 64th note?",
+    "correct_answer": "Hemidemisemiquaver",
+    "incorrect_answers": [
+      "Semihemidemisemiquaver",
+      "Semiquaver",
+      "Demisemiquaver"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who won the 1989 Drum Corps International championships?",
+    "correct_answer": "Santa Clara Vanguard",
+    "incorrect_answers": ["Blue Devils", "The Academy", "The Bluecoats"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
+    "correct_answer": "MGMT",
+    "incorrect_answers": ["MSTRKRFT", "STRFKR", "SBTRKT"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Death Grips album is the only one to feature a band member?",
+    "correct_answer": "No Love Deep Web",
+    "incorrect_answers": [
+      "Bottomless Pit",
+      "The Money Store",
+      "The Powers That B"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+    "correct_answer": "12",
+    "incorrect_answers": ["19", "21", "25"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+    "correct_answer": "Limitless Fury",
+    "incorrect_answers": ["Let The Sparks Fly", "Down", "Give Up The Ghost"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the title of Sakamoto Kyu&#039;s song &quot;Ue o Muite Arukou&quot; (I Look Up As I Walk) changed to in the United States?",
+    "correct_answer": "Sukiyaki",
+    "incorrect_answers": ["Takoyaki", "Sushi", "Oden"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+    "correct_answer": "Safety Dance",
+    "incorrect_answers": [
+      "Down Under",
+      "Who Can It Be Now?",
+      "It&#039;s a Mistake"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In an orchestra, what is the lowest member of the brass family?",
+    "correct_answer": "Tuba",
+    "incorrect_answers": ["Trombone", "Contrabass", "Bassoon"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+    "correct_answer": "Compton",
+    "incorrect_answers": ["Detroit", "New York", "Baltimore"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "EDM label Monstercat signs tracks instead of artists.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+    "correct_answer": "Watch the Throne",
+    "incorrect_answers": [
+      "Distant Relatives",
+      "What a Time to be Alive",
+      "Unfinished Business"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What album did Bon Iver release in 2016?",
+    "correct_answer": "22, A Million",
+    "incorrect_answers": [
+      "Bon Iver, Bon Iver",
+      "Blood Bank EP",
+      "For Emma, Forever Ago"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Pink Guy&#039;s debut album was &quot;Pink Season&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is NOT a song by Pegboard Nerds?",
+    "correct_answer": "WiFi Tears",
+    "incorrect_answers": ["Swamp Thing", "Emoji", "BAMF"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Tame Impala release their second album?",
+    "correct_answer": "2012",
+    "incorrect_answers": ["2015", "2010", "1967"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+    "correct_answer": "2008",
+    "incorrect_answers": ["2000", "2015", "2004"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these songs is not on the &quot;untitled&quot; album by Led Zeppelin?",
+    "correct_answer": "Celebration Day",
+    "incorrect_answers": ["Stairway to Heaven", "Black Dog", "Rock and Roll"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which member of &quot;The Beatles&quot; narrated episodes of &quot;Thomas the Tank Engine&quot;?",
+    "correct_answer": "Ringo Starr",
+    "incorrect_answers": ["George Harrison", "John Lennon", "Paul McCartney"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the lead singer and frontman of rock band R.E.M?",
+    "correct_answer": "Michael Stipe",
+    "incorrect_answers": ["Chris Martin", "Thom Yorke", "George Michael"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+    "correct_answer": "Play",
+    "incorrect_answers": ["Everything Is Wrong", "Moby", "18"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of Pink Floyd&#039;s first studio album?",
+    "correct_answer": "The Piper at the Gates of Dawn",
+    "incorrect_answers": ["Ummagumma", "More", "Atom Heart Mother"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
+    "correct_answer": "Jeff Lynne&#039;s Electric Light Orchestra",
+    "incorrect_answers": ["The Rolling Stones", "Pink Floyd", "The Who"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these songs did Jimi Hendrix cover?",
+    "correct_answer": "All of these songs",
+    "incorrect_answers": [
+      "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+      "All Along the Watchtower",
+      "House of the Rising Sun"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The band Muse released their first album, Showbiz, in what year?",
+    "correct_answer": "1999",
+    "incorrect_answers": ["1998", "2000", "2001"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which alternative rock band released the critically-acclaimed album &quot;OK Computer&quot;?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["R.E.M.", "Nirvana", "Coldplay"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Liam Howlett founded which electronic music group in 1990?",
+    "correct_answer": "The Prodigy",
+    "incorrect_answers": [
+      "The Chemical Brothers",
+      "The Crystal Method",
+      "Infected Mushroom"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the official name of Prince&#039;s backing band?",
+    "correct_answer": "The Revolution",
+    "incorrect_answers": ["The Paupers", "The Wailers", "The Heartbreakers"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Artis Leon Ivey Jr. is better known as which rap artist?",
+    "correct_answer": "Coolio",
+    "incorrect_answers": ["Dr Dre", "Snoop Dogg", "Ice T"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+    "correct_answer": "Red Hot Chilli Peppers",
+    "incorrect_answers": ["Green Day", "Linkin Park", "Foo Fighters"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+    "correct_answer": "Can&#039;t Help Falling in Love",
+    "incorrect_answers": ["Jailhouse Rock", "In the Ghetto", "Wooden Heart"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many strings are there on a cello?",
+    "correct_answer": "4",
+    "incorrect_answers": ["5", "6", "8"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+    "correct_answer": "Snare Drum",
+    "incorrect_answers": ["Cow Bell", "Bass Drum", "Maraca"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+    "correct_answer": "The Last Emperor",
+    "incorrect_answers": ["MC Frontalot", "Busdriver", "Masta Killa"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+    "correct_answer": "Nokia Tune",
+    "incorrect_answers": [
+      "Hello Moto [Motorola Ringtone]",
+      "Droid Ringtone",
+      "Microsoft Ringtone"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Green Day&#039;s album &#039;American Idiot&#039; is considered a &quot;punk rock opera.&quot;",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is an album by punk rock band Anti-Flag?",
+    "correct_answer": "For Blood And Empire",
+    "incorrect_answers": [
+      "Infinity On High",
+      "21st Century Breakdown",
+      "No Pads, No Helmets...Just Balls"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "AMC&#039;s &quot;The Walking Dead&quot;, Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year did the television company BBC officially launch the channel BBC One?",
+    "correct_answer": "1936",
+    "incorrect_answers": ["1948", "1932", "1955"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did &quot;The Big Bang Theory&quot; debut on CBS?",
+    "correct_answer": "2007",
+    "incorrect_answers": ["2008", "2006", "2009"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+    "correct_answer": "Mudflap",
+    "incorrect_answers": ["Skids", "Sideswipe", "Ratchet"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
+    "correct_answer": "Pawnee, Indiana",
+    "incorrect_answers": [
+      "Eagleton, Indiana",
+      "Pasadena, California",
+      "London, England"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these Bojack Horseman characters is a human?",
+    "correct_answer": "Todd Chavez",
+    "incorrect_answers": [
+      "Lennie Turtletaub",
+      "Princess Carolyn",
+      "Tom Jumbo-Grumbo"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+    "correct_answer": "Time And Relative Dimensions In Space",
+    "incorrect_answers": [
+      "Time And Resting Dimensions In Space",
+      "Time And Relative Dimensions In Style",
+      "Toilet Aid Rope Dog Is Soup"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The television show Doctor Who first aired in 1963.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who co-founded the YouTube Let&#039;s Play channel &quot;Game Grumps&quot; alongside Newgrounds animator Egoraptor?",
+    "correct_answer": "JonTron",
+    "incorrect_answers": ["Pewdiepie", "Tobuscus", "Markiplier"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
+    "correct_answer": "Amazon",
+    "incorrect_answers": ["Netflix", "BBC", "CCTV"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+    "correct_answer": "Pencilvester",
+    "incorrect_answers": ["Beth Smith", "Summer Smith", "Mr. Poopy Butthole"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+    "correct_answer": "2013",
+    "incorrect_answers": ["2014", "2016", "2015"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In DuckTales, what is the name of the city where all the main characters live?",
+    "correct_answer": "Duckburg",
+    "incorrect_answers": ["Duckwing", "Tailspin", "Wingford"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
+    "correct_answer": "Scotland",
+    "incorrect_answers": ["England", "Sweden", "Germany"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the real name of the famous spanish humorist, El Risitas?",
+    "correct_answer": "Juan Joya Borga",
+    "incorrect_answers": [
+      "Gabriel Garcia Marquez",
+      "Jesus Quintero",
+      "Ernesto Guevara"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
+    "correct_answer": "74",
+    "incorrect_answers": ["88", "49", "62"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+    "correct_answer": "Barry Allen",
+    "incorrect_answers": ["Oliver Queen", "Bart Allen", "Bruce Wayne"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which British writer wrote for both Doctor Who and Sherlock?",
+    "correct_answer": "Steven Moffatt",
+    "incorrect_answers": ["Phil Ford", "Russell T Davies", "Toby Whithouse"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+    "correct_answer": "House Majority Whip",
+    "incorrect_answers": ["Attorney General", "President", "Chief of Staff"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "4", "5"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of following is rude and dishonorable by Klingon standards?",
+    "correct_answer": "Taking his D&#039;k tahg",
+    "incorrect_answers": [
+      "Insulting and laughing at him at the dinner table",
+      "Reaching over and taking his meal",
+      "Punching him and taking his ship station position"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+    "correct_answer": "Once you have their money, you never give it back. ",
+    "incorrect_answers": [
+      "Never place friendship above profit",
+      "Greed is Eternal",
+      "Never allow family to stand in the way of opportunity"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Klingons express emotion in art through opera and poetry.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the Klingon&#039;s afterlife called?",
+    "correct_answer": "Sto-vo-kor",
+    "incorrect_answers": ["Valhalla", "Karon&#039;gahk", "New Jersey"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+    "correct_answer": "Look into sky and yell loudly in mourning.",
+    "incorrect_answers": [
+      "Kiss the jagged forehead before burial.",
+      "Shoot into space in a torpedo casing.",
+      "Split the deceased&#039;s earnings between bloodkin."
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?",
+    "correct_answer": "Klingon",
+    "incorrect_answers": ["Vulcan", "Human", "Botha"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+    "correct_answer": "5",
+    "incorrect_answers": ["10", "2", "7"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the planet that the Doctor from television series &quot;Doctor Who&quot; comes from?",
+    "correct_answer": "Gallifrey",
+    "incorrect_answers": ["Sontar", "Skaro", "Mondas"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Alan Reed is known for providing the voice of which character?",
+    "correct_answer": "Fred Flintstone",
+    "incorrect_answers": ["Bugs Bunny", "Fangface", "G.I. Joe"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+    "correct_answer": "Laura Roslin",
+    "incorrect_answers": ["William Adama", "Tricia Helfer", "Harry Stills"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the main antagonists in Battlestar Galactica?",
+    "correct_answer": "The Cylons",
+    "incorrect_answers": ["The Collective", "The Federation", "The Rebels"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In &quot;Star Trek: The Next Generation&quot;, Data is the only android in existence.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+    "correct_answer": "Seinfeld",
+    "incorrect_answers": ["Frasier", "Becker", "Friends"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Prior to working at Wizards of the Coast, &quot;Mark Rosewater&quot; was a writer for which show?",
+    "correct_answer": "Roseanne",
+    "incorrect_answers": ["Boy Meets World", "The X-Files", "NYPD Blue"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "On the NBC show Community what was Star Burns&#039; real name?",
+    "correct_answer": "Alex",
+    "incorrect_answers": ["Todd", "Neal", "Grimus"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the winner of &quot;Big Brother&quot; Season 10?",
+    "correct_answer": "Dan Gheesling",
+    "incorrect_answers": ["Bryce Kranyik", "Ryan Sutfin", "Chris Mundorf"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In AMC&#039;s TV Series &quot;The Walking Dead&quot; what are &quot;Zombies&quot; referred to as?",
+    "correct_answer": "Walkers",
+    "incorrect_answers": ["Creepers", "Maggots", "Hell Pigs"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+    "correct_answer": "Frank Bruno",
+    "incorrect_answers": ["Henry Cooper", "Muhammad Ali", "Joe Fraiser"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+    "correct_answer": "Danger Mouse",
+    "incorrect_answers": ["Bananaman", "SuperTed", "Captain Star"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+    "correct_answer": "Rik Mayall",
+    "incorrect_answers": [
+      "Adrian Edmondson",
+      "Nigel Planer",
+      "Christopher Ryan"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+    "correct_answer": "Sabrina",
+    "incorrect_answers": ["Hermione", "Dorothy", "Dahlia"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+    "correct_answer": "Pennsylvania",
+    "incorrect_answers": ["Florida", "California", "New Jersey"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+    "correct_answer": "Finders Keepers",
+    "incorrect_answers": ["Double Dare", "Nickelodeon Guts", "Nick Arcade"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+    "correct_answer": "Major Fraud",
+    "incorrect_answers": [
+      "Ingram Cheater",
+      "Coughing Major",
+      "Millionaire Crime"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The first half-hour CGI cartoon, ReBoot, aired on which year?",
+    "correct_answer": "1994",
+    "incorrect_answers": ["1993", "1998", "1999"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+    "correct_answer": "Oscar",
+    "incorrect_answers": ["Emmy", "Tony", "Grammy"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+    "correct_answer": "Pie-O-My",
+    "incorrect_answers": ["Man o&#039; war", "Bada Bing", "Honest Earnings"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these bones is hardest to break?",
+    "correct_answer": "Femur",
+    "incorrect_answers": ["Cranium", "Humerus", "Tibia"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+    "correct_answer": "Space",
+    "incorrect_answers": ["Science", "Society", "Star"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What name is given to all baby marsupials?",
+    "correct_answer": "Joey",
+    "incorrect_answers": ["Calf", "Pup", "Cub"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+    "correct_answer": "Uranus",
+    "incorrect_answers": ["Jupiter", "Venus", "Neptune"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many planets are in our Solar System?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Nine", "Seven", "Ten"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the hottest planet in the Solar System?",
+    "correct_answer": "Venus",
+    "incorrect_answers": ["Mars", "Mercury", "Jupiter"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many legs is it biologically impossible for a centipede to have?",
+    "correct_answer": "100",
+    "incorrect_answers": ["26", "50", "74"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+    "correct_answer": "Shin Splints",
+    "incorrect_answers": [
+      "Tennis Elbow",
+      "Carpal Tunnel",
+      "Housemaid&#039;s Knee"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": ["Oxygen", "Argon", "Carbon Dioxide"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Steel is an alloy of Iron and Carbon.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many planets make up our Solar System?",
+    "correct_answer": "8",
+    "incorrect_answers": ["7", "9", "6"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the primary addictive substance found in tobacco?",
+    "correct_answer": "Nicotine",
+    "incorrect_answers": ["Cathinone", "Ephedrine", "Glaucine"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who developed the first successful polio vaccine in the 1950s?",
+    "correct_answer": "Jonas Salk",
+    "incorrect_answers": [
+      "John F. Enders",
+      "Thomas Weller",
+      "Frederick Robbins"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "correct_answer": "Sputnik 1",
+    "incorrect_answers": ["Soyuz 7K-OK", "Zenit-2", "Voskhod 3KV"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The medical condition osteoporosis affects which part of the body?",
+    "correct_answer": "Bones",
+    "incorrect_answers": ["Skin", "Brain", "Heart"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+    "correct_answer": "Sphenopalatine Ganglioneuralgia",
+    "incorrect_answers": [
+      "Hyacinthoides Italica",
+      "Amaranthus Retroflexus",
+      "Amblyomma Americanum"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+    "correct_answer": "Reactivity",
+    "incorrect_answers": ["Health", "Flammability", "Radioactivity"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The element involved in making human blood red is which of the following?",
+    "correct_answer": "Iron",
+    "incorrect_answers": ["Copper", "Iridium", "Cobalt"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+    "correct_answer": "The coma",
+    "incorrect_answers": ["The wake", "The backwash", "The ablative"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Myopia is the scientific term for which condition?",
+    "correct_answer": "Shortsightedness",
+    "incorrect_answers": ["Farsightedness", "Double Vision", "Clouded Vision"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is a stop codon in DNA?",
+    "correct_answer": "TAA",
+    "incorrect_answers": ["ACT", "ACA", "GTA"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "5", "6"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+    "correct_answer": "Interphase",
+    "incorrect_answers": ["Prophase", "Stasis", "Telophase"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+    "correct_answer": "Neon",
+    "incorrect_answers": ["Potassium", "Iodine", "Colbalt"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Deuterium is an isotope of which element?",
+    "correct_answer": "Hydrogen",
+    "incorrect_answers": ["Nitrogen", "Helium", "Neon"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "An Astronomical Unit is the distance between Earth and the Moon.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What element on the periodic table has 92 electrons?",
+    "correct_answer": "Uranium",
+    "incorrect_answers": ["Sulfur", "Hydrogen", "Iron"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "About how old is Earth?",
+    "correct_answer": "4.5 Billion Years",
+    "incorrect_answers": [
+      "3.5 Billion Years",
+      "2.5 Billion Years",
+      "5.5 Billion Years"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The chemical element Lithium is named after the country of Lithuania.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+    "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+    "incorrect_answers": [
+      "A lack of nutrition in microenviroments",
+      "The nitrogen level in soil",
+      "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+    "correct_answer": "The Sonoran Desert",
+    "incorrect_answers": [
+      "The Gobi Desert",
+      "The Yuma Desert",
+      "The Arabian Desert"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the speed of light in a vacuum?",
+    "correct_answer": "299,792,458 m/s",
+    "incorrect_answers": [
+      "50,461 m/s",
+      "308,215,043 m/s",
+      "751,665,014,151 m/s"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Sound can travel through a vacuum.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A plant that has a life cycle for more than a year is known as an annual.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following spacecraft never touched the moon?",
+    "correct_answer": "Mariner 4",
+    "incorrect_answers": ["Apollo 11", "Luna 2", "SMART-1"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these animals belongs in class Chondrichthyes?",
+    "correct_answer": "Great white shark",
+    "incorrect_answers": ["Octopus", "Killer whale", "Catfish"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+    "correct_answer": "To know",
+    "incorrect_answers": ["To measure", "To live", "To count"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Deionized water is water with which of the following removed?",
+    "correct_answer": "Iron",
+    "incorrect_answers": ["Oxygen", "Hydrogen", "Uncharged atoms"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these choices is not one of the phases of mitosis?",
+    "correct_answer": "Diplophase",
+    "incorrect_answers": ["Metaphase", "Anaphase", "Telophase"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the study of the cells and tissues of plants and animals?",
+    "correct_answer": "Histology",
+    "incorrect_answers": ["Microbiology", "Anatomy", "Biochemistry"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following are cells of the adaptive immune system?",
+    "correct_answer": "Cytotoxic T cells",
+    "incorrect_answers": [
+      "Dendritic cells",
+      "Natural killer cells",
+      "White blood cells"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "correct_answer": "6",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "correct_answer": "Resiniferatoxin",
+    "incorrect_answers": ["Capsaicin", "Dihydrocapsaicin", "Tinyatoxin"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When the Falcon Heavy was launched on it&#039;s test flight, what was the only part of the operation that failed?",
+    "correct_answer": "Center Core Landing",
+    "incorrect_answers": [
+      "Side Booster Landing",
+      "Deployment of Starman",
+      "Ignition and Liftoff"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How old is the universe?",
+    "correct_answer": "13.8 Billion Years",
+    "incorrect_answers": [
+      "4.5 Billion Years",
+      "7.9 Billion Years",
+      "16.2 Billion Years"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the atomic mass of Carbon?",
+    "correct_answer": "12",
+    "incorrect_answers": ["14", "16", "10"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+    "correct_answer": "Crete",
+    "incorrect_answers": ["Sardinia", "Sicily", "Cyprus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+    "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+    "incorrect_answers": [
+      "Tied to a boulder for eternity, being pecked by birds.",
+      "Standing in a lake filled with water he could not drink.",
+      "To fell a tree that regenerated after every axe swing."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+    "correct_answer": "Participating in cannibalism.",
+    "incorrect_answers": [
+      "Excessive mutilation of animal corpses.",
+      "Performing a ritual involving murder.",
+      "Drinking the blood of many slain animals."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the only god from Greece who did not get a name change in Rome?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": ["Demeter", "Zeus", "Athena"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+    "correct_answer": "Athena",
+    "incorrect_answers": ["Ares", "Artemis", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In Norse mythology, Thor once dressed as a woman.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+    "correct_answer": "A Horse",
+    "incorrect_answers": ["A Dragon", "A Tiger", "A Lion"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+    "correct_answer": "Jason",
+    "incorrect_answers": ["Castor", "Daedalus", "Odysseus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the Roman god of fire?",
+    "correct_answer": "Vulcan",
+    "incorrect_answers": ["Apollo", "Jupiter", "Mercury"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Neptune&#039;s greek name was...",
+    "correct_answer": "Poseidon",
+    "incorrect_answers": ["Ares", "Zeus", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hera is god of...",
+    "correct_answer": "Marriage",
+    "incorrect_answers": ["Agriculture", "Sea", "War"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": ["Enki", "Enlil", "Enkimdu"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+    "correct_answer": "Eris",
+    "incorrect_answers": ["Charon", "Ceres", "Dysnomia"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Greek Mythology, who was the daughter of King Minos?",
+    "correct_answer": "Ariadne",
+    "incorrect_answers": ["Athena", "Ariel", "Alana"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "According to Greek Mythology, Zeus can control lightning.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "According to Norse mythology, Loki is a mother.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+    "correct_answer": "Nidhogg",
+    "incorrect_answers": ["Bragi", "Odin", "Ymir"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+    "correct_answer": "Janus",
+    "incorrect_answers": ["Vulcan", "Juno", "Mars"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": ["Aphrodite", "Artemis", "Athena"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Greek Mythology, who killed Achilles?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Hector", "Helen", "Pericles"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The greek god Poseidon was the god of what?",
+    "correct_answer": "The Sea",
+    "incorrect_answers": ["War", "Sun", "Fire"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+    "correct_answer": "Orpheus",
+    "incorrect_answers": ["Hercules", "Perseus", "Daedalus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is NOT a god in Norse Mythology.",
+    "correct_answer": "Jens",
+    "incorrect_answers": ["Loki", "Tyr", "Snotra"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In Greek mythology, Hera is the goddess of harvest.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the Egyptian god of reproduction and lettuce?",
+    "correct_answer": "Min",
+    "incorrect_answers": ["Menu", "Mut", "Meret"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A minotaur is half human half what?",
+    "correct_answer": "Bull",
+    "incorrect_answers": ["Cow", "Horse", "Eagle"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In most traditions, who was the wife of Zeus?",
+    "correct_answer": "Hera",
+    "incorrect_answers": ["Aphrodite", "Athena", "Hestia"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "According to Greek Mythology, Atlas was an Olympian God.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the Greek god of blacksmiths?",
+    "correct_answer": "Hephaestus",
+    "incorrect_answers": ["Dyntos", "Vulcan", "Artagatus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+    "correct_answer": "Set",
+    "incorrect_answers": ["Horus", "Ra", "Anhur"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+    "correct_answer": "Centaur",
+    "incorrect_answers": ["Minotaur", "Pegasus", "Gorgon"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is not one of the Greek Fates?",
+    "correct_answer": "Narcissus",
+    "incorrect_answers": ["Clotho", "Atropos", "Lachesis"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What mythology did the god &quot;Apollo&quot; come from?",
+    "correct_answer": "Greek and Roman",
+    "incorrect_answers": [
+      "Roman and Spanish",
+      "Greek and Chinese",
+      "Greek, Roman and Norse"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+    "correct_answer": "Spider",
+    "incorrect_answers": ["Wild dog", "Monkey", "Crocodile"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["Vanuatu", "Fiji", "Hawaii"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A wyvern is the same as a dragon.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+    "correct_answer": "Harpies",
+    "incorrect_answers": ["Mermaids", "Nymph", "Lilith"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "Janus was the Roman god of doorways and passageways.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the god of war in Polynesian mythology?",
+    "correct_answer": "&#039;Oro",
+    "incorrect_answers": ["Hina", "Kohara", "M\u0101ui"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+    "correct_answer": "Tree",
+    "incorrect_answers": ["Mountain", "Temple", "Castle"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+    "correct_answer": "Victory",
+    "incorrect_answers": ["Courage", "Strength", "Honor"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+    "correct_answer": "Cucumbers",
+    "incorrect_answers": ["Kabocha", "Nasu", "Soba"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Norse God has a horse named Sleipnir?",
+    "correct_answer": "Odin",
+    "incorrect_answers": ["Thor", "Frigg", "Balder"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the first human being in Norse mythology?",
+    "correct_answer": "Ask",
+    "incorrect_answers": ["Asmund", "Ake", "Asger"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+    "correct_answer": "Eris",
+    "incorrect_answers": ["Hades", "Ares", "Artemis"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the Greek god of peaceful deaths?",
+    "correct_answer": "Thanatos",
+    "incorrect_answers": ["Tartarus", "Hades", "Moros"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": "Loki",
+    "incorrect_answers": ["Thor", "Odin", "Balder"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+    "correct_answer": "Aristaeus",
+    "incorrect_answers": ["Autonoe", "Carme", "Cephisso"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Ten", "Seven", "Eight"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+    "correct_answer": "Jordan",
+    "incorrect_answers": ["Benetton", "Ferrari", "Mercedes"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+    "correct_answer": "Duck",
+    "incorrect_answers": ["Bye", "Beamer", "Carry"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+    "correct_answer": "Big Daddy",
+    "incorrect_answers": ["Giant Haystacks", "Kendo Nagasaki", "Masambula"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Liverpool", "Cheslea", "Manchester United"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A stimpmeter measures the speed of a ball over what surface?",
+    "correct_answer": "Golf Putting Green",
+    "incorrect_answers": [
+      " Football Pitch",
+      "Cricket Outfield",
+      "Pinball Table"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+    "correct_answer": "Alain Prost",
+    "incorrect_answers": ["Ayrton Senna", "Niki Lauda", "Emerson Fittipaldi"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct_answer": "82",
+    "incorrect_answers": ["62", "42", "102"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "With which doubles partner did John McEnroe have most success?",
+    "correct_answer": "Peter Fleming",
+    "incorrect_answers": ["Mark Woodforde", "Michael Stich", "Mary Carillo"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In baseball, how many fouls are an out?",
+    "correct_answer": "0",
+    "incorrect_answers": ["5", "3", "2"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country will host the 2020 Summer Olympics?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "Australia", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the 2015 Formula 1 World Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Nico Rosberg", "Sebastian Vettel", "Jenson Button"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Skateboarding will be included in the 2020 Summer Olympics in Tokyo.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Tennis was once known as Racquetball.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+    "correct_answer": "7 - 1",
+    "incorrect_answers": ["0 - 1", "3 - 4", "16 - 0"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which team was the 2014-2015 NBA Champions?",
+    "correct_answer": "Golden State Warriors",
+    "incorrect_answers": [
+      "Cleveland Cavaliers",
+      "Houston Rockets",
+      "Atlanta Hawks"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "correct_answer": "Pelle",
+    "incorrect_answers": ["Insigne", "Barzagli", "Giaccherini"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Roger Federer is a famous soccer player.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Brazil", "Colombia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won 2014 FIFA World Cup in Brazil?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Argentina", "Brazil", "Netherlands"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many points did LeBron James score in his first NBA game?",
+    "correct_answer": "25",
+    "incorrect_answers": ["19", "69", "41"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year was hockey legend Wayne Gretzky born?",
+    "correct_answer": "1961",
+    "incorrect_answers": ["1965", "1959", "1963"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1968", "1971", "1970"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "correct_answer": "Jose Fernandez",
+    "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Toyota", "Audi", "Chevrolet"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+    "correct_answer": "Shaquille O&#039;Neal",
+    "incorrect_answers": ["Allen Iverson", "Kobe Bryant", "Paul Pierce"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What team did England beat to win in the 1966 World Cup final?",
+    "correct_answer": "West Germany",
+    "incorrect_answers": ["Soviet Union", "Portugal", "Brazil"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In bowling, what is the term used for getting three consecutive strikes?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Flamingo", "Birdie", "Eagle"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "ATP tennis hosted several tournaments on carpet court before being replaced to reduce injuries.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": ["Sir Bobby Charlton", "Ryan Giggs", "David Beckham"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is Manchester United&#039;s leading appearance maker?",
+    "correct_answer": "Ryan Giggs",
+    "incorrect_answers": ["David Beckham", "Wayne Rooney", "Eric Cantona"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": [
+      "Cristiano Ronaldo",
+      "Robin Van Persie",
+      "David Beckham"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the FC Schalke 04 founded?",
+    "correct_answer": "1904",
+    "incorrect_answers": ["1909", "2008", "1999"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+    "correct_answer": "Sunderland FC",
+    "incorrect_answers": [
+      "Barcelona FC",
+      "Paris Saints-Germain",
+      "Manchester United"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2017?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": ["Atletico Madrid", "AS Monaco FC", "Juventus F.C."]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "correct_answer": "Toronto Marlies",
+    "incorrect_answers": [
+      "Toronto Rock",
+      "Toronto Argonauts",
+      "Toronto Wolfpack"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What country hosted the 2014 Winter Olympics?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "United States", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which basketball team has attended the most NBA grand finals?",
+    "correct_answer": "Los Angeles Lakers",
+    "incorrect_answers": [
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Golden State Warriors"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["United States of America", "Italy", "Netherlands"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+    "correct_answer": "Vladivostok",
+    "incorrect_answers": ["Rostov-on-Don", "Yekaterinburg", "Kaliningrad"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+    "correct_answer": "James Rodr&iacute;guez",
+    "incorrect_answers": ["Thomas M&uuml;ller", "Lionel Messi", "Neymar"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What country is not a part of Scandinavia?",
+    "correct_answer": "Finland",
+    "incorrect_answers": ["Norway", "Sweden", "Denmark"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which city, is the Big Nickel located in Canada?",
+    "correct_answer": "Sudbury, Ontario",
+    "incorrect_answers": [
+      "Calgary, Alberta",
+      "Halifax, Nova Scotia ",
+      "Victoria, British Columbia"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "On a London Underground map, what colour is the Circle Line?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": ["Red", "Blue", "Green"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Peru?",
+    "correct_answer": "Lima",
+    "incorrect_answers": ["Santiago", "Montevideo", "Buenos Aires"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Indonesia?",
+    "correct_answer": "Jakarta",
+    "incorrect_answers": ["Bandung", "Medan", "Palembang"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these island countries is located in the Caribbean?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Fiji", "Maldives", "Seychelles"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is NOT a city in India?",
+    "correct_answer": "Islamabad",
+    "incorrect_answers": ["Hyderabad", "Ahmedabad", "Ghaziabad"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Republic of Malta is the smallest microstate worldwide.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which English county is Stonehenge?",
+    "correct_answer": "Wiltshire",
+    "incorrect_answers": ["Somerset", "Cumbria", "Herefordshire"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+    "correct_answer": "Urutora",
+    "incorrect_answers": ["Rungata", "London", "Washington"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "There is a city called Rome in every continent on Earth.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "Canada", "Sweden"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+    "correct_answer": "Bangladesh",
+    "incorrect_answers": ["Malaysia", "Vietnam", "Philippines"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is NOT an island that is part of the Philippines?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Luzon", "Mindanao", "Palawan"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "H&uuml;davendigar",
+      "S&ouml;\u011f&uuml;t",
+      "Adrianople"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The historical city Timbuktu is located in which West African country?",
+    "correct_answer": "Mali",
+    "incorrect_answers": ["Senegal", "Niger", "Burkina Faso"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Vietnam is the only country in the world that starts with V. ",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Senegal?",
+    "correct_answer": "Dakar",
+    "incorrect_answers": ["Nouakchott", "Conakry", "Monrovia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the right way to spell the capital of Hungary?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": ["Boodapest", "Bhudapest", "Budapast"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Hunua Ranges is located in...",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["Nepal", "China", "Mexico"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "correct_answer": "Albania",
+    "incorrect_answers": ["Croatia", "Serbia", "Macedonia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the peninsula containing Spain and Portugal?",
+    "correct_answer": "Iberian Peninsula",
+    "incorrect_answers": [
+      "European Peninsula",
+      "Peloponnesian Peninsula",
+      "Scandinavian Peninsula"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has three capital cities?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Somalia", "China", "United Kingdom"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has the abbreviation &quot;CH&quot;?",
+    "correct_answer": "Switzerland",
+    "incorrect_answers": ["China", "Canada", "No Country"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the smallest country in South America by area?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Brazil", "Uruguay", "Chile"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "California is larger than Japan.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is the home of the largest Japanese population outside of Japan?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["China", "Russia", "The United States"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Canadian province has Charlottetown as its capital?",
+    "correct_answer": "Prince Edward Island",
+    "incorrect_answers": ["Saskachewan", "Northwest Terrirories", "Ontario"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Canada&#039;s largest island?",
+    "correct_answer": "Baffin Island",
+    "incorrect_answers": [
+      "Prince Edward Island",
+      "Vancouver Island",
+      "Newfoundland"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many timezones does Russia have?",
+    "correct_answer": "11",
+    "incorrect_answers": ["6", "24", "16"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the smallest country in the world?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": ["Maldives", "Monaco", "Malta"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What&#039;s the first National Park designated in the United States?",
+    "correct_answer": "Yellowstone",
+    "incorrect_answers": ["Sequoia ", "Yosemite", "Rocky Mountain"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Estonia?",
+    "correct_answer": "Tallinn",
+    "incorrect_answers": ["Helsinki", "Tartu", "Riga"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest country in the world?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "China", "United States"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+    "correct_answer": "Abruzzi Spur",
+    "incorrect_answers": ["Magic Line", "Cesen Route", "Polish Line"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What continent is the country Lesotho in?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "South America", "Europe"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these country&#039;s capitals starts with the letter B?",
+    "correct_answer": "Lebanon",
+    "incorrect_answers": ["Jordan", "Kuwait", "Qatar"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a capital city?",
+    "correct_answer": "Sydney",
+    "incorrect_answers": ["Cairo", "Moscow", "Beijing"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Alps are a mountain range on which continent?",
+    "correct_answer": "Europe",
+    "incorrect_answers": ["North America", "Asia", "Africa"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Into which basin does the Jordan River flow into?",
+    "correct_answer": "Dead Sea",
+    "incorrect_answers": ["Aral Sea", "Caspian Sea", "Salton Sea"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Bridgetown is the capital of which island country in the Carribean?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Cuba", "Jamaica&lrm;", "Dominica"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "There is an island in Japan called \u014ckunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city is the Terracotta Army located in?",
+    "correct_answer": "Xi&#039;an",
+    "incorrect_answers": ["Beijing", "Shanghai", "Hong Kong"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which is not a country in Africa?",
+    "correct_answer": "Guyana",
+    "incorrect_answers": ["Senegal", "Liberia", "Somalia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country claims ownership of the disputed state Kosovo?",
+    "correct_answer": "Serbia",
+    "incorrect_answers": ["Croatia", "Albania", "Macedonia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "correct_answer": "San Francisco, California",
+    "incorrect_answers": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+    "correct_answer": "Kaliningrad",
+    "incorrect_answers": ["Kazan", "Kursk", "Krasnodar"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the largest freshwater lake by volume?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": ["Lake Superior", "Lake Huron", "Lake Michigan"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+    "correct_answer": "Silver",
+    "incorrect_answers": ["Gold", "Juno", "Sword"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was William Frederick Cody better known as?",
+    "correct_answer": "Buffalo Bill",
+    "incorrect_answers": ["Billy the Kid", "Wild Bill Hickok", "Pawnee Bill"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What historical event was Tchaikovsky&#039;s 1812 Overture referencing?",
+    "correct_answer": "The Napoleonic Wars",
+    "incorrect_answers": [
+      "The American War of 1812",
+      "The Russian Revolution",
+      "The Charge of the Light Brigade (Crimean War)"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The idea of Socialism was articulated and advanced by whom?",
+    "correct_answer": "Karl Marx",
+    "incorrect_answers": ["Vladimir Lenin", "Joseph Stalin", "Vladimir Putin"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year did the Wall Street Crash take place?",
+    "correct_answer": "1929",
+    "incorrect_answers": ["1932", "1930", "1925"]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Jamaica recieve its independence from England? ",
+    "correct_answer": "1962",
+    "incorrect_answers": ["1492", "1963", "1987"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+    "correct_answer": "Battle of Adrianople",
+    "incorrect_answers": [
+      "Battle of Thessalonica",
+      "Battle of Pollentia",
+      "Battle of Constantinople"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+    "correct_answer": "Illyrians",
+    "incorrect_answers": ["Dorians", "Achaeans", "Ionians"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "List the following Iranic empires in chronological order:",
+    "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+    "incorrect_answers": [
+      "Median, Achaemenid, Sassanid, Parthian",
+      "Achaemenid, Median, Parthian, Sassanid",
+      "Achaemenid, Median, Sassanid, Parthian"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+    "correct_answer": "X",
+    "incorrect_answers": ["W", "U", "J"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was Manfred von Richthofen&#039;s nickname?",
+    "correct_answer": "The Red Baron",
+    "incorrect_answers": [
+      "The High Flying Ace",
+      "The Blue Serpent ",
+      "The Germany Gunner"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+    "correct_answer": "Apollo 17",
+    "incorrect_answers": ["Apollo 13", "Apollo 11", "Apollo 15"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+    "correct_answer": "Post cards",
+    "incorrect_answers": ["Alcohol", "Cigarettes", "Sodas "]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When did Canada leave the confederation to become their own nation?",
+    "correct_answer": "July 1st, 1867",
+    "incorrect_answers": ["July 1st, 1763", "July 1st, 1832", "July 1st, 1902"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did the North American Video Game Crash occur?",
+    "correct_answer": "1983",
+    "incorrect_answers": ["1982", "1993", "1970"]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+    "correct_answer": "Philip V",
+    "incorrect_answers": ["Charles V", "Philip II", "Francis Joseph"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+    "correct_answer": "Hispania ",
+    "incorrect_answers": ["Italia", "Gallia", "Asia"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+    "correct_answer": "107 BCE",
+    "incorrect_answers": ["42 BCE", "264 BCE", "102 CE"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Second Boer War in 1899 was fought where?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Argentina", "Nepal", "Bulgaria"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When did Lithuania declare independence from the Soviet Union?",
+    "correct_answer": "March 11th, 1990",
+    "incorrect_answers": [
+      "December 25th, 1991",
+      "December 5th, 1991",
+      "April 20th, 1989"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+    "correct_answer": "The Columbian Exchange",
+    "incorrect_answers": [
+      "Triangle Trade",
+      "Transatlantic Slave Trade",
+      "The Silk Road"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+    "correct_answer": "Nationalist Spain",
+    "incorrect_answers": ["Republican Spain", "Popular Front", "Papal State"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was found in 1946 by two young shepards near a cave?",
+    "correct_answer": "Dead Sea Scrolls",
+    "incorrect_answers": [
+      "The Blackbeard Chest",
+      "Sheep",
+      "The First Oaxaca Cave Sleeper"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was Genghis Khan&#039;s real name?",
+    "correct_answer": "Tem&uuml;jin",
+    "incorrect_answers": ["M&ouml;ngke", "&Ouml;gedei", "Tem&uuml;r"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following snipers has the highest amount of confirmed kills?",
+    "correct_answer": "Simo H&auml;yh&auml;",
+    "incorrect_answers": ["Chris Kyle", "Vasily Zaytsev", "Craig Harrison"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+    "correct_answer": "The Apology",
+    "incorrect_answers": ["The Euthyphro", "The Laws", "The Republic"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+    "correct_answer": "Homer",
+    "incorrect_answers": ["Aristotle", "Odysseus", "Socrates"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+    "correct_answer": "Hampton Court",
+    "incorrect_answers": [
+      "St James&#039;s Palace",
+      "Buckingham Palace",
+      "Coughton Court"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "The USS Missouri (BB-63) last served in the Korean War.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+    "correct_answer": "The Polish President",
+    "incorrect_answers": ["Pope John Paul II", "Bang-Ding Ow", "Albert Putin"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following countries was the first to send an object into space?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["USA", "Russia", "China"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+    "correct_answer": "The Central Powers",
+    "incorrect_answers": [
+      "The Axis Powers",
+      "The Federation of Empires",
+      "Authoritarian Alliance"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did the Berlin Wall fall?",
+    "correct_answer": "1989",
+    "incorrect_answers": ["1987", "1991", "1993"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+    "correct_answer": "Vistula-Oder Offensive",
+    "incorrect_answers": [
+      "Crimean Offensive",
+      "Leningrad-Novgorod Offensive",
+      "Operation Bagration"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Presidents of the United States was assassinated?",
+    "correct_answer": "William McKinley",
+    "incorrect_answers": [
+      "Lyndon Johnson",
+      "Chester Arthur",
+      "Franklin Roosevelt"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+    "correct_answer": "Silk Road",
+    "incorrect_answers": ["Spice Road", "Clay Road", "Salt Road"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first Chancellor of a united Germany in 1871? ",
+    "correct_answer": "Otto Von Bismark",
+    "incorrect_answers": ["Kaiser Wilhelm ", "Fredrick the 2nd", "Robert Koch"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did O, Canada officially become the national anthem?",
+    "correct_answer": "1980",
+    "incorrect_answers": ["1950", "1920", "1880"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does the United States of America celebrate during the 4th of July?",
+    "correct_answer": "The signing of the Declaration of Independence",
+    "incorrect_answers": [
+      "The anniversary of the Battle of Gettysburg",
+      "The crossing of the Delaware River",
+      "The ratification of the Constitution"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "James Monroe"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+    "correct_answer": "Werner Heisenberg",
+    "incorrect_answers": ["John von Neumann", "Albert Einstein", "Max Planck"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President was famously &#039;attacked&#039; by a swimming rabbit?",
+    "correct_answer": "Jimmy Carter",
+    "incorrect_answers": ["Ronald Reagan", "Lydon B. Johnson", "Gerald Ford"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who assassinated Archduke Franz Ferdinand?",
+    "correct_answer": "Gavrilo Princip",
+    "incorrect_answers": [
+      "Nedeljko \u010cabrinovi\u0107",
+      "Oskar Potiorek",
+      "Ferdinand Cohen-Blind"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "correct_answer": "River Horse (Greek)",
+    "incorrect_answers": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of animal is a natterjack?",
+    "correct_answer": "Toad",
+    "incorrect_answers": ["Bird", "Fish", "Insect"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the fastest  land animal?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "An octopus can fit through any hole larger than its beak.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A slug&rsquo;s blood is green.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the scientific name for modern day humans?",
+    "correct_answer": "Homo Sapiens",
+    "incorrect_answers": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["South Africa", "Australia", "Madagascar"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which species of Brown Bear is not extinct?",
+    "correct_answer": "Syrian Brown Bear",
+    "incorrect_answers": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "correct_answer": "Seahorse",
+    "incorrect_answers": ["Dolphin", "Whale", "Octopus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Cashmere is the wool from which kind of animal?",
+    "correct_answer": "Goat",
+    "incorrect_answers": ["Sheep", "Camel", "Llama"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "correct_answer": "Ursus Maritimus",
+    "incorrect_answers": ["Polar Bear", "Ursus Spelaeus", "Ursus Arctos"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What are rhino&#039;s horn made of?",
+    "correct_answer": "Keratin",
+    "incorrect_answers": ["Bone", "Ivory", "Skin"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many legs do butterflies have?",
+    "correct_answer": "6",
+    "incorrect_answers": ["2", "4", "0"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "correct_answer": "Feliformia",
+    "incorrect_answers": ["Haplorhini", "Caniformia", "Ciconiiformes"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many known living species of hyenas are there?",
+    "correct_answer": "4",
+    "incorrect_answers": ["8", "2", "6"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific family does the Aardwolf belong to?",
+    "correct_answer": "Hyaenidae",
+    "incorrect_answers": ["Canidae", "Felidae", "Eupleridae"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "correct_answer": "Nervousness",
+    "incorrect_answers": ["Excitement", "Aggression", "Exhaustion"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the cheetah?",
+    "correct_answer": "Acinonyx jubatus",
+    "incorrect_answers": ["Panthera onca", "Lynx rufus", "Felis catus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "correct_answer": "Foxes",
+    "incorrect_answers": ["Pigeons", "Bears", "Alligators"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Rabbits are rodents.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these animals is NOT a lizard?",
+    "correct_answer": "Tuatara",
+    "incorrect_answers": ["Komodo Dragon", "Gila Monster", "Green Iguana"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "correct_answer": "Tardar Sauce",
+    "incorrect_answers": ["Sauce", "Minnie", "Broccoli"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which class of animals are newts members of?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": ["Fish", "Reptiles", "Mammals"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "correct_answer": "Felidae",
+    "incorrect_answers": ["Felinae", "Felis", "Cat"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A caterpillar has more muscles than humans do.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "correct_answer": "Pugs",
+    "incorrect_answers": ["Bulldogs", "Boxers", "Chihuahua"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Killer Whale is considered a type of dolphin.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "correct_answer": "Frog",
+    "incorrect_answers": ["Chicken", "Horse", "Fly"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the fastest animal?",
+    "correct_answer": "Peregrine Falcon",
+    "incorrect_answers": ["Golden Eagle", "Cheetah", "Horsefly"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Finnish Lapphund dogs were used for herding reindeer.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the collective noun for a group of crows?",
+    "correct_answer": "Murder",
+    "incorrect_answers": ["Pack", "Gaggle", "Herd"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "correct_answer": "Gooty",
+    "incorrect_answers": ["Hopper", "Silver Stripe", "Woebegone"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "correct_answer": "Pan troglodytes",
+    "incorrect_answers": ["Gorilla gorilla", "Pan paniscus", "Panthera leo"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "correct_answer": "At the bottom of the ocean",
+    "incorrect_answers": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "correct_answer": "Portuguese Man-of-War",
+    "incorrect_answers": ["Sea Wasp", "Irukandji", "Sea Nettle"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Tigers have one colour of skin despite the stripey fur.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "You can tell the age of a ladybird by counting the spots on his back.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many teeth does an adult rabbit have?",
+    "correct_answer": "28",
+    "incorrect_answers": ["30", "26", "24"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "correct_answer": "Drone",
+    "incorrect_answers": ["Soldier", "Worker", "Male"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "correct_answer": "Burrow",
+    "incorrect_answers": ["Nest", "Den", "Dray"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the collective noun for bears?",
+    "correct_answer": "Sloth",
+    "incorrect_answers": ["Drove", "Tribe", "Husk"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the collective noun for rats?",
+    "correct_answer": "Mischief",
+    "incorrect_answers": ["Pack", "Race", "Drift"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Rabbits are carnivores.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The internet browser Firefox is named after the Red Panda.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What bird is born with claws on its wing digits?",
+    "correct_answer": "Hoatzin",
+    "incorrect_answers": ["Cormorant", "Cassowary", "Secretary bird"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "correct_answer": "Chordata",
+    "incorrect_answers": ["Echinodermata", "Annelida", "Placazoa"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Scooby-Doo&#039;s real name?",
+    "correct_answer": "Scoobert",
+    "incorrect_answers": ["Scooter", "Scrappy", "Shooby"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which &#039;Family Guy&#039; character got his own spin-off show in 2009?",
+    "correct_answer": "Cleveland Brown",
+    "incorrect_answers": [
+      "Glenn Quagmire",
+      "Joe Swanson",
+      "The Greased-up Deaf Guy"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+    "correct_answer": "Bambi",
+    "incorrect_answers": ["Cinderella", "Pinocchio", "The Jungle Book"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What town was &quot;Springfield&quot; from &quot;The Simpsons&quot; originally named after?",
+    "correct_answer": "Springfield, Oregon",
+    "incorrect_answers": [
+      "Springfield, Missouri",
+      "Springfield, Illinois",
+      "Springfield, Massachusetts"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which &quot;Toy Story&quot; character was voiced by Don Rickles?",
+    "correct_answer": "Mr. Potato Head",
+    "incorrect_answers": ["Slinky Dog", "Hamm", "Rex"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
+    "correct_answer": "Slam dunk, nothing but net!",
+    "incorrect_answers": [
+      "Hit the sack, Jack!",
+      "Rikki-Tikki-Tavi, biatch!",
+      "Wubba-lubba-dub-dub!"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?",
+    "correct_answer": "South Park",
+    "incorrect_answers": ["The Simpsons", "Family Guy", "Bob&#039;s Burgers"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
+    "correct_answer": "John Ratzenberger",
+    "incorrect_answers": ["Tom Hanks", "Dave Foley", "Geoffrey Rush"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a Disney cartoon character?",
+    "correct_answer": "Daffy Duck",
+    "incorrect_answers": ["Donald Duck", "Daisy Duck", "Scrooge McDuck"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When did the last episode of &quot;Futurama&quot; air?",
+    "correct_answer": "September 4, 2013",
+    "incorrect_answers": ["December 25, 2010", "March 28, 1999", "On Going"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who voices for Ruby in the animated series RWBY?",
+    "correct_answer": "Lindsay Jones",
+    "incorrect_answers": ["Tara Strong", "Jessica Nigri", "Hayden Panettiere"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the first Disney movie to use CGI?",
+    "correct_answer": "The Black Cauldron",
+    "incorrect_answers": ["Tron", "Toy Story", "Fantasia"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+    "correct_answer": "All Dogs Go To Heaven",
+    "incorrect_answers": ["Titan A.E.", "Anastasia", "The Land Before Time"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
+    "correct_answer": "Rose Marene",
+    "incorrect_answers": ["Pinkie Pie", "Maud Pie", "Rainbow Dash"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the web-comic Homestuck, what is the name of the game the 4 kids play?",
+    "correct_answer": "Sburb",
+    "incorrect_answers": ["Homesick", "Husslie", "Hiveswap"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
+    "correct_answer": "Miranda Wright",
+    "incorrect_answers": ["Dick Tracy", "Eddie Valiant", "Dr. Ludwig von Drake"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+    "correct_answer": "The Shell",
+    "incorrect_answers": ["The Limit", "The Kids", "The Gripes"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the cartoon character, Andy Capp, known as in Germany?",
+    "correct_answer": "Willi Wakker",
+    "incorrect_answers": ["Dick Tingeler", "Helmut Schmacker", "Rod Tapper"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is not a Flintstones character?",
+    "correct_answer": "Lord Rockingham IX",
+    "incorrect_answers": ["Rockhead Slate", "The Great Gazoo", "Barney Rubble"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?",
+    "correct_answer": "Lilo",
+    "incorrect_answers": ["Lolo", "Lucy", "Lulu"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;The Amazing World of Gumball&quot;, who is the principal of Elmore Junior High?",
+    "correct_answer": "Principal Brown",
+    "incorrect_answers": [
+      "Principal Small",
+      "Principal Brawn",
+      "Principal Simeon"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Nickelodeon rejected the pilot to Adventure Time.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+    "correct_answer": "Sadie and Lars",
+    "incorrect_answers": ["Steven and James", "Erik and Julie", "Bob and May"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo", "Donatello", "Raphael"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+    "correct_answer": "Max Tennyson (Ben 10)",
+    "incorrect_answers": [
+      "Carl Wheezer (Jimmy Neutron)",
+      "Yakko Warner (Animaniacs)",
+      "The Mask (The Mask, TV Series)"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who created &quot;RWBY&quot;?",
+    "correct_answer": "Monty Oum",
+    "incorrect_answers": ["Miles Luna", "Kerry Shawcross", "Shane Newville"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the show &quot;Foster&#039;s Home For Imaginary Friends&quot;, which character had an obsession with basketball?",
+    "correct_answer": "Wilt",
+    "incorrect_answers": ["Coco", "Mac", "Cheese"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+    "correct_answer": "At Summer Camp",
+    "incorrect_answers": [
+      "At High School",
+      "At Church",
+      "At 742 Evergreen Terrace"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Rick and Morty&quot;, from which dimension do Rick and Morty originate from?",
+    "correct_answer": "C-137",
+    "incorrect_answers": ["J1977", "C-136", "C500-a"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;My Little Pony: Friendship is Magic&quot;, which of these ponies represents the quality of honesty?",
+    "correct_answer": "Applejack",
+    "incorrect_answers": ["Twilight Sparkle", "Pinkie Pie", "Rarity"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?",
+    "correct_answer": "Eat a salamander and jump out the window.",
+    "incorrect_answers": [
+      "Leave in peace.",
+      "Jump out the window.",
+      "Release 1,000 captive salamanders into the white house."
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Gravity Falls&quot;, how much does Waddles weigh when Mable wins him in &quot;The Time Traveler&#039;s Pig&quot;?",
+    "correct_answer": "15 pounds",
+    "incorrect_answers": ["20 pounds", "10 pounds", "30 pounds"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.",
+    "correct_answer": "SpongeBob SquarePants ",
+    "incorrect_answers": ["Patrick Star", "Squidward Tentacles", "Mr. Krabs"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the &quot;Star Wars&quot; universe, what species is Grand Admiral Thrawn?",
+    "correct_answer": "Chiss",
+    "incorrect_answers": ["Gungans", "Pantorans", "Twi&#039;lek"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many episodes were in season five of Samurai Jack?",
+    "correct_answer": "10",
+    "incorrect_answers": ["12", "11", "13"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the 1969 Cartoon show &quot;Dastardly and Muttley in Their Flying Machines&quot;, which were NOT one of the lyrics in the opening theme?",
+    "correct_answer": "Stab him",
+    "incorrect_answers": ["Nab him", "Jab him", "Tab him"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?",
+    "correct_answer": "Bandit",
+    "incorrect_answers": ["Lucky", "Rocky", "Max"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Night on Bald Mountain was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Nutcracker Suite was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who voiced Finn in Adventure Time?",
+    "correct_answer": "Jeremy Shada",
+    "incorrect_answers": ["Nolan North", "John DiMaggio", "Tom Kenny"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Townsend Coleman provided the voice for which turtle in the original 1987 series of &quot;Teenage Mutant Ninja Turtles&quot;?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo", "Donatello", "Raphael"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the show &quot;Fat Albert and the Cosby Kids&quot;, what is the name of the characters&#039; fictional gang?",
+    "correct_answer": "The Junkyard Gang",
+    "incorrect_answers": [
+      "The Trash Troupe",
+      "The Scrapyard Seven",
+      "The Rotten Posse"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+    "correct_answer": "Mermaid Transformation",
+    "incorrect_answers": ["Artificial Gills", "Bubble Head", "Bubble Shield"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+    "correct_answer": "Vietnam War",
+    "incorrect_answers": ["World War 2", "World War 1", "Cold War"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What animated internet character is known to answer emails with his boxing gloves?",
+    "correct_answer": "Strong Bad",
+    "incorrect_answers": ["Strong Sad", "Strong Mad", "Strong Glad"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+    "correct_answer": "Levi Stubbs",
+    "incorrect_answers": ["Freddie Mercury", "Janet Jackson", "Joan Jett"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of Ruby Rose&#039;s weapon from RWBY?",
+    "correct_answer": "Crescent Rose",
+    "incorrect_answers": ["Thorned Rosebud", "Magnhild", "Crooked Scythe"]
+  }
+]

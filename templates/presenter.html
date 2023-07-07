@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animation.css') }}">
+
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+
+    <title>{{ title }}</title>
+</head>
+
+<body>
+    <div class="lights">
+        <div class='light x1'></div>
+        <div class='light x2'></div>
+        <div class='light x3'></div>
+        <div class='light x4'></div>
+        <div class='light x5'></div>
+        <div class='light x6'></div>
+        <div class='light x7'></div>
+        <div class='light x8'></div>
+        <div class='light x9'></div>
+    </div>
+    <main>
+        <dialog class="wrong-container" id="wrong-container"></dialog>
+        <dialog class="buzzer-container" id="buzzer-container"></dialog>
+        <div class="container">
+
+            <div class="question">
+                <h1 id="question">
+                    {{ question }}
+                </h1>
+            </div>
+
+            <div class="answers" id="answers">
+
+                <div class="answer" id="1">
+                    <div class="answer-num">
+                        <p>1</p>
+                    </div>
+                    <div class="answer-answer">
+                        <p id="answer1">
+                            {{ answers[1]['text'] }}
+                        </p>
+                    </div>
+                    <div class="answer-score">
+                        <p id="points1">
+                            {{ answers[1]['points'] }}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="answer" id="2">
+                    <div class="answer-num">
+                        <p>2</p>
+                    </div>
+                    <div class="answer-answer">
+                        <p id="answer2">
+                            {{ answers[2]['text'] }}
+                        </p>
+                    </div>
+                    <div class="answer-score">
+                        <p id="points2">
+                            {{ answers[2]['points'] }}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="answer" id="3">
+                    <div class="answer-num">
+                        <p>3</p>
+                    </div>
+                    <div class="answer-answer">
+                        <p id="answer3">
+                            {{ answers[3]['text'] }}
+                        </p>
+                    </div>
+                    <div class="answer-score">
+                        <p id="points3">
+                            {{ answers[3]['points'] }}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="answer" id="4">
+                    <div class="answer-num">
+                        <p>4</p>
+                    </div>
+                    <div class="answer-answer">
+                        <p id="answer4">
+                            {{ answers[4]['text'] }}
+                        </p>
+                    </div>
+                    <div class="answer-score">
+                        <p id="points4">
+                            {{ answers[4]['points'] }}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="answer" id="5">
+                    <div class="answer-num">
+                        <p>5</p>
+                    </div>
+                    <div class="answer-answer">
+                        <p id="answer5">
+                            {{ answers[5]['text'] }}
+                        </p>
+                    </div>
+                    <div class="answer-score">
+                        <p id="points5">
+                            {{ answers[5]['points'] }}
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </main>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"
+    integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA=="
+    crossorigin="anonymous"></script>
+
+<script>
+
+    var socket = io();
+
+    const round_data = {
+        wrong_answers: 0,
+        total_points: 0,
+        question_revealed: false,
+        answers_revealed: [false, false, false, false, false],
+        round_over: 0
+    }
+
+    socket.on("give_round_data", (data) => {
+        round_data.wrong_answers = data['wrong_answers'];
+        round_data.total_points = data["total_points"];
+        round_data.question_revealed = data["question_revealed"];
+        round_data.answers_revealed = data["answers_revealed"];
+        round_data.round_over = data["round_over"];
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+        socket.emit("get_round_data");
+    });
+
+    socket.on("give_wrong_answers", (data) => {
+        round_data.wrong_answers = data;
+    });
+
+    socket.on("give_total_points", (data) => {
+        round_data.total_points = data;
+    });
+
+    socket.on("give_question_revealed", (data) => {
+        round_data.question_revealed = data;
+        
+        const question = document.getElementsByClassName('question')[0];
+        if (round_data.question_revealed) {
+            question.classList.add("hide-after")
+        } else {
+            question.classList.remove("hide-after")
+        }
+    });
+
+    socket.on("give_answers_revealed", (data) => {
+        round_data.answers_revealed = data;
+        const answers = document.getElementById('answers').children;
+        for (let i = 0; i < answers.length; i++) {
+            if (round_data.answers_revealed[i + 1]) {
+                answers[i].classList.add("hide-after")
+            } else {
+                answers[i].classList.remove("hide-after")
+            }
+        }
+    });
+
+    socket.on("give_round_over", (data) => {
+        round_data.round_over = data;
+    });
+
+
+    socket.on("presenter_new_question", () => {
+        const question_container = document.getElementsByClassName("question")[0];
+        const main_container = document.getElementsByClassName("container")[0]
+
+        // animate only if question has been revealed
+        if ((question_container.classList.contains("hide-after"))) {
+
+            main_container.style.transitionDuration = "1.5s"
+            main_container.style.transitionTimingFunction = "ease-in"
+            main_container.style.width = "0%"
+
+            setTimeout(function () {
+                main_container.style.transitionDuration = "1.5s"
+                main_container.style.transitionTimingFunction = "ease-out"
+                main_container.style.width = "70%"
+            }, 1430)
+        };
+
+        // wait until middle of animation before adding covers and changing answers
+        setTimeout(function () {
+
+            question_container.classList.remove("hide-after")
+
+            const answers = document.getElementById('answers').children;
+            for (let answer of answers) {
+                answer.classList.remove("hide-after")
+            }
+            socket.emit('get_round_data')
+            socket.emit('get_current_question')
+
+        }, 1430)
+    });
+
+    socket.on("give_current_question", (question_json) => {
+
+        console.log("Question: " + question_json.question)
+
+        document.getElementById("question").innerText = question_json.question;
+
+        document.getElementById("answer1").innerText = question_json.answer1.text;
+        document.getElementById("answer2").innerText = question_json.answer2.text;
+        document.getElementById("answer3").innerText = question_json.answer3.text;
+        document.getElementById("answer4").innerText = question_json.answer4.text;
+        document.getElementById("answer5").innerText = question_json.answer5.text;
+
+        document.getElementById("points1").innerText = question_json.answer1.points;
+        document.getElementById("points2").innerText = question_json.answer2.points;
+        document.getElementById("points3").innerText = question_json.answer3.points;
+        document.getElementById("points4").innerText = question_json.answer4.points;
+        document.getElementById("points5").innerText = question_json.answer5.points;
+    });
+
+    socket.on('presenter_reveal_answer', number => {
+        const answers = document.getElementById('answers').children;
+        answers[number - 1].classList.add("hide-after");
+    });
+
+    socket.on("presenter_wrong_answer", () => {
+
+        const wrong_container = document.getElementById('wrong-container');
+
+        switch (round_data.wrong_answers) {
+            case 0:
+                wrong_container.innerHTML = "";
+                break;
+            case 1:
+                wrong_container.innerHTML = "<div></div>";
+                break;
+            case 2:
+                wrong_container.innerHTML = "<div></div><div></div>";
+                break;
+            case 3:
+                wrong_container.innerHTML = "<div></div><div></div><div></div>";
+                break;
+            case 4:
+                wrong_container.innerHTML = "<div></div>";
+                break;
+        }
+
+
+        wrong_container.close();
+        wrong_container.showModal();
+        setTimeout(function () {wrong_container.close();}, 1500)
+
+    });
+
+    socket.on("buzz_in", (team_name) => {
+        let buzzer_string = "TEAM: " + team_name
+
+        const buzzer_container = document.getElementById('buzzer-container');
+        buzzer_container.innerHTML = buzzer_string;
+        buzzer_container.close();
+        buzzer_container.showModal();
+    })
+
+    socket.on("presenter_close_buzzer_modal", () => {
+        const buzzer_container = document.getElementById('buzzer-container');
+        buzzer_container.close();
+    })
+
+    function animate_on_screen() {
+        const main_container = document.getElementsByClassName("container")[0]
+        main_container.style.width = "0%"
+        setTimeout(function () {
+            main_container.style.width = "70%"
+        }, 1200)
+
+    }
+
+</script>
+
+<script>
+
+    var correct_sound = new Audio("{{ url_for('static', filename='sounds/correct-answer.mp3') }}")
+    var top_answer_sound = new Audio("{{ url_for('static', filename='sounds/top-answer.mp3') }}")
+    var wrong_sound = new Audio("{{ url_for('static', filename='sounds/wrong-answer.mp3') }}")
+    var new_question_sound = new Audio("{{ url_for('static', filename='sounds/next-question.mp3') }}")
+    var round_over_sound = new Audio("{{ url_for('static', filename='sounds/round-end.mp3') }}")
+    var timer_sound = new Audio("{{ url_for('static', filename='sounds/simple-countdown.mp3') }}")
+    var intro_sound = new Audio("{{ url_for('static', filename='sounds/intro-music.mp3') }}")
+    var laugh_track_sound = new Audio("{{ url_for('static', filename='sounds/laugh-track.mp3') }}")
+    var hold_music_sound = new Audio("{{ url_for('static', filename='sounds/hold-music.mp3') }}")
+    var buzz_in_sound = new Audio("{{ url_for('static', filename='sounds/buzz-in.mp3') }}")
+
+    sounds = {
+        "correct_answer": correct_sound,
+        "top_answer": top_answer_sound,
+        "wrong_answer": wrong_sound,
+        "new_round": new_question_sound,
+        "round_over": round_over_sound,
+        "timer": timer_sound,
+        "intro": intro_sound,
+        "laugh": laugh_track_sound,
+        "hold": hold_music_sound,
+        "buzz": buzz_in_sound
+    }
+
+    socket.on("play_sound", (args) => {
+        let sound = args['sound']
+        let override = args['override']
+        if (sound in sounds) {
+            let s = sounds[sound]
+            if (!override) {
+                if (s.paused) {
+                    s.play();
+                } else {
+                    s.pause()
+                    s.currentTime = 0;
+                }
+                s.currentTime = 0;
+            } else {
+                s.play()
+                s.currentTime = 0;
+            }
+        }
+    });
+</script>
+
+</html>
