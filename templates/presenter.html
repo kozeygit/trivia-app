@@ -130,6 +130,7 @@
       question_revealed: false,
       answers_revealed: [false, false, false, false, false],
       round_over: 0,
+      buzzer_state: false
     };
 
     socket.on("give_round_data", (data) => {
@@ -176,6 +177,10 @@
     });
 
     socket.on("give_round_over", (data) => {
+      round_data.round_over = data;
+    });
+
+    socket.on("give_buzzer_state", (data) => {
       round_data.round_over = data;
     });
 
