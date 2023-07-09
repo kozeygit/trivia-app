@@ -181,7 +181,7 @@
       wrong_answers: 0,
       total_points: 0,
       question_revealed: false,
-      answers_revealed: [false, false, false, false, false],
+      answers_revealed: {1: false, 2: false, 3: false, 4: false, 5: false},
       round_over: 0,
       buzzer_state: false
     };
@@ -226,6 +226,7 @@
       for (let i = 0; i < answers.length; i++) {
         if (round_data.answers_revealed[i + 1]) {
           answers[i].style.backgroundColor = "grey";
+          answers[i].disable = true;
         } else {
           answers[i].style.backgroundColor = "lightgreen";
         }
@@ -303,7 +304,6 @@
       const answers = document.getElementById("answers").children;
       for (let answer of answers) {
         answer.style.backgroundColor = "grey";
-        answer.disabled = true;
       }
 
       socket.emit("controller_new_question");
@@ -325,7 +325,10 @@
     function reveal_answer(button) {
       let num = parseInt(button.id);
 
-      navigator.vibrate([50, 30, 50, 30, 50]);
+      if (!round_data.answers_revealed[num]) {
+        navigator.vibrate([50, 30, 50, 30, 50]);
+      }
+      
       socket.emit("controller_reveal_answer", num);
     }
 
