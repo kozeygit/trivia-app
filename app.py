@@ -53,6 +53,16 @@ def controller():
 def join_team():
     session.clear()
     if request.method == "POST":
+
+        c = request.form.get("controller", False)
+        p = request.form.get("presenter", False)
+        
+        if c != False:
+            return redirect(url_for("controller"))
+        
+        if p != False:
+            return redirect(url_for("presenter"))
+        
         team_name = request.form.get("team_name").upper()
 
         if team_name == "":

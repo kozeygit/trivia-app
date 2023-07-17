@@ -15,9 +15,10 @@
 
       body {
         height: 100dvh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        display: grid;
+        place-items: center;
+        width: 80%;
+        margin: auto;
       }
 
       h3 {
@@ -26,10 +27,11 @@
       }
 
       input {
+        width: 96%;
         margin-top: 120px;
         font-size: 20px;
         padding-block: 10px;
-        padding-inline: 20px;
+        padding-left: 10px;
       }
 
       button {
@@ -59,6 +61,8 @@
         />
       </div>
       <button type="submit" name="join">Join Team</button>
+      <button type="submit" name="presenter">Presenter</button>
+      <button type="submit" name="controller" >Controller</button>
       <div class="error-box">
         {% if error %}
         <h4>Error: {{ error }}</h4>
@@ -68,4 +72,12 @@
       </div>
     </form>
   </body>
+  <script>
+    function presenter() {
+      document.location.replace("/presenter");
+    }
+    function controller() {
+      document.location.replace("/controller");
+    }
+  </script>
 </html>
