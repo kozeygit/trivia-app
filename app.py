@@ -289,6 +289,11 @@ def handle_controller_set_buzzer_state(state):
         socketio.emit("presenter_close_buzzer_modal")
     handle_get_buzzer_state()
 
+@socketio.on("buzz_whenever")
+def handle_buzz_whenever():
+    socketio.emit("presenter_buzz_whenever")
+    handle_play_sound("wrong_answer")
+
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
@@ -326,6 +331,10 @@ store on server:
     Total Points for Round
 
     
+TO DO:
+
+Add buzzer that can activate whenever
+Visible timer
 
 
 

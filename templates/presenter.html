@@ -133,6 +133,18 @@
       buzzer_state: false
     };
 
+    socket.on("presenter_buzz_whenever", () => {
+      temp_wrong_answers = round_data.wrong_answers
+      const wrong_container = document.getElementById("wrong-container");
+      wrong_container.innerHTML = "<div></div>";
+      wrong_container.close();
+      wrong_container.showModal();
+
+      setTimeout(function () {
+        wrong_container.close();
+      }, 1500);
+    })
+
     socket.on("give_round_data", (data) => {
       round_data.wrong_answers = data["wrong_answers"];
       round_data.total_points = data["total_points"];
@@ -324,7 +336,10 @@
     var buzz_in_sound = new Audio(
       "{{ url_for('static', filename='sounds/buzz-in.mp3') }}"
     );
-
+    var countdown_sound = new Audio(
+      "{{ url_for('static', filename='sounds/The_Countdown_Clock.mp3') }}"
+    );
+    
     sounds = {
       correct_answer: correct_sound,
       top_answer: top_answer_sound,
@@ -336,6 +351,7 @@
       laugh: laugh_track_sound,
       hold: hold_music_sound,
       buzz: buzz_in_sound,
+      countdown: countdown_sound
     };
 
     socket.on("play_sound", (args) => {

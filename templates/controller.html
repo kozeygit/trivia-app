@@ -149,6 +149,9 @@
         <button class="new_question-btn" onclick="new_question()" type="button">
           <p>New Question</p>
         </button>
+        <button class="buzz-whenever" onclick="buzz_whenever()" type="button">
+          <p>WRONG BUZZER</p>
+        </button>
         <div class="sound-btns">
           <button class="sound-btn" onclick="play_sound('timer')" type="button">
             <p>Timer</p>
@@ -161,6 +164,9 @@
           </button>
           <button class="sound-btn" onclick="play_sound('hold')" type="button">
             <p>Hold</p>
+          </button>
+          <button class="sound-btn" onclick="play_sound('countdown')" type="button">
+            <p>Countdown</p>
           </button>
         </div>
         <div id="connection-status"></div>
@@ -282,6 +288,10 @@
       document.getElementById("points5").innerText =
         question_json.answer5.points;
     });
+
+    function buzz_whenever() {
+      socket.emit("buzz_whenever")
+    }
 
     function activate_buzzers() {
       socket.emit("controller_set_buzzer_state", true);
