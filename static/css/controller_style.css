@@ -84,7 +84,8 @@ h1 {
 }
 
 .answer-btns,
-.buzzer-btns {
+.buzzer-btns,
+.btn-pair {
   margin-top: 25px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -114,7 +115,6 @@ h1 {
 }
 
 .new_question-btn {
-  margin-top: 25px;
   width: 100%;
   display: grid;
   place-items: center;
@@ -124,7 +124,6 @@ h1 {
 }
 
 .buzz-whenever {
-  margin-top: 25px;
   width: 100%;
   display: grid;
   place-items: center;
@@ -168,20 +167,21 @@ h1 {
   content: "🎵 - ";
 }
 
-.sound-btn:nth-child(2) {
-  border-top-right-radius: 25px;
-}
-
+/* TOP LEFT */
 .sound-btn:nth-child(1) {
   border-top-left-radius: 25px;
 }
-
+/* TOP RIGHT */
+.sound-btn:nth-child(2) {
+  border-top-right-radius: 25px;
+}
+/* BOTTOM LEFT */
+.sound-btn:nth-child(5) {
+  border-bottom-left-radius: 25px;
+}
+/* BOTTOM RIGHT */
 .sound-btn:nth-child(4) {
   border-bottom-right-radius: 25px;
-}
-
-.sound-btn:nth-child(3) {
-  border-bottom-left-radius: 25px;
 }
 
 .stats {

@@ -1,0 +1,803 @@
+[
+    {
+        "question": "Name something associated with vampires.",
+        "answer1": {"text": "Twilight", "points": 33},
+        "answer2": {"text": "Blood/Bloodsucker", "points": 29},
+        "answer3": {"text": "Garlic", "points": 9},
+        "answer4": {"text": "Bat", "points": 7},
+        "answer5": {"text": "Cape", "points": 7}
+    
+    },
+    {
+        "question": "Name something in a bakery a baker might call his wife.",
+        "answer1": {"text": "Honey/Buns", "points": 32},
+        "answer2": {"text": "His Oven", "points": 9},
+        "answer3": {"text": "Sweet/Sweetie", "points": 9},
+        "answer4": {"text": "Cupcake", "points": 8},
+        "answer5": {"text": "Muffin", "points": 7}
+    
+    },
+    {
+        "question": "Name something in a person's closet that only comes out on special occasions.",
+        "answer1": {"text": "Suit/Tux", "points": 35},
+        "answer2": {"text": "Dress", "points": 26},
+        "answer3": {"text": "Jewelry", "points": 10},
+        "answer4": {"text": "Dress Shoes", "points": 6},
+        "answer5": {"text": "Shotgun", "points": 4}
+    
+    },
+    {
+        "question": "Name something you might see a commercial for during a baseball game.",
+        "answer1": {"text": "Car/Truck", "points": 28},
+        "answer2": {"text": "Baseball Equipment/Jerseys", "points": 26},
+        "answer3": {"text": "Baseball Games/Tickets", "points": 25},
+        "answer4": {"text": "Restaurants", "points": 9},
+        "answer5": {"text": "Medication", "points": 6}
+    
+    },
+    {
+        "question": "If your dog ran away, name something you'd be surprised he took with him.",
+        "answer1": {"text": "The Cat", "points": 23},
+        "answer2": {"text": "Leash/Collar", "points": 17},
+        "answer3": {"text": "Food/Bowl", "points": 16},
+        "answer4": {"text": "His Bone", "points": 9},
+        "answer5": {"text": "Clothes/Shoe", "points": 6}
+    
+    },
+    {
+        "question": "Name an occasion where parents force their kids to wear a certain outfit.",
+        "answer1": {"text": "Wedding", "points": 26},
+        "answer2": {"text": "Easter", "points": 23},
+        "answer3": {"text": "Halloween", "points": 20},
+        "answer4": {"text": "Church", "points": 15},
+        "answer5": {"text": "Christmas", "points": 4}
+    
+    },
+    {
+        "question": "Name something that might come out of your nose when you laugh.",
+        "answer1": {"text": "Snot", "points": 48},
+        "answer2": {"text": "Milk ", "points": 32},
+        "answer3": {"text": "Water", "points": 5},
+        "answer4": {"text": "Soda", "points": 4},
+        "answer5": {"text": "Breath", "points": 3}
+    
+    },
+    {
+        "question": "Name qualities of a bad boss.",
+        "answer1": {"text": "Micromanager", "points": 29},
+        "answer2": {"text": "Incompetent", "points": 24},
+        "answer3": {"text": "Angry", "points": 20},
+        "answer4": {"text": "Irresponsible", "points": 14},
+        "answer5": {"text": "Oblivious", "points": 13}
+    
+    },
+    {
+        "question": "Name a food dogs love just as much as humans do.",
+        "answer1": {"text": "Steak", "points": 48},
+        "answer2": {"text": "Chicken", "points": 14},
+        "answer3": {"text": "Bread", "points": 13},
+        "answer4": {"text": "Hamburger", "points": 13},
+        "answer5": {"text": "Cheese", "points": 8}
+    
+    },
+    {
+        "question": "Name something that shakes, rattles, and rolls.",
+        "answer1": {"text": "An Old Car", "points": 31},
+        "answer2": {"text": "A Rattle/Toy", "points": 29},
+        "answer3": {"text": "A Rattlesnake", "points": 15},
+        "answer4": {"text": "Music/Singers", "points": 8},
+        "answer5": {"text": "Dancing Bod/Booty", "points": 4}
+    
+    },
+    {
+        "question": "Other than feet, name something that runs.",
+        "answer1": {"text": "Water/Toilet", "points": 37},
+        "answer2": {"text": "Engine/Car", "points": 24},
+        "answer3": {"text": "Refrigerator", "points": 10},
+        "answer4": {"text": "Nose", "points": 8},
+        "answer5": {"text": "Pantyhose", "points": 8}
+    
+    },
+    {
+        "question": "Name a word that rhymes with “election.”",
+        "answer1": {"text": "Selection", "points": 32},
+        "answer2": {"text": "Erection", "points": 23},
+        "answer3": {"text": "Perfection", "points": 6},
+        "answer4": {"text": "Detection", "points": 6},
+        "answer5": {"text": "Protection", "points": 5}
+    
+    },
+    {
+        "question": "Name something you would ask the Wizard for in the Land of Oz.",
+        "answer1": {"text": "Money", "points": 37},
+        "answer2": {"text": "Health/A New Heart", "points": 17},
+        "answer3": {"text": "A Brain", "points": 7},
+        "answer4": {"text": "Hot Bod", "points": 5},
+        "answer5": {"text": "Peace on Earth", "points": 4}
+    
+    },
+    {
+        "question": "Name a soda that people like to drink.",
+        "answer1": {"text": "Coca Cola", "points": 39},
+        "answer2": {"text": "Diet Coke", "points": 29},
+        "answer3": {"text": "Pepsi", "points": 14},
+        "answer4": {"text": "Dr. Pepper", "points": 11},
+        "answer5": {"text": "Mountain Dew", "points": 7}
+    
+    },
+    {
+        "question": "Name something people might only do once a week.",
+        "answer1": {"text": "Laundry", "points": 27},
+        "answer2": {"text": "Grocery shop", "points": 25},
+        "answer3": {"text": "Exercise", "points": 21},
+        "answer4": {"text": "Go to church", "points": 15},
+        "answer5": {"text": "Mow the yard", "points": 12}
+    
+    },
+    {
+        "question": "Name something you keep in your car.",
+        "answer1": {"text": "Money/Coins", "points": 19},
+        "answer2": {"text": "Food/Water", "points": 18},
+        "answer3": {"text": "First Aid Kit", "points": 18},
+        "answer4": {"text": "Spare Tire", "points": 15},
+        "answer5": {"text": "Map", "points": 7}
+    
+    },
+    {
+        "question": "Name another word people say for “rear end.”",
+        "answer1": {"text": "Butt/Buttocks", "points": 54},
+        "answer2": {"text": "Arse", "points": 18},
+        "answer3": {"text": "Backside", "points": 6},
+        "answer4": {"text": "Derriere", "points": 4},
+        "answer5": {"text": "Bottom", "points": 3}
+    
+    },
+    {
+        "question": "Name an occasion for which you might wear lucky underwear.",
+        "answer1": {"text": "Hot Date", "points": 30},
+        "answer2": {"text": "Job Interview", "points": 16},
+        "answer3": {"text": "Casino/Gambling", "points": 11},
+        "answer4": {"text": "Sporting Event", "points": 9},
+        "answer5": {"text": "Wedding/Night", "points": 7}
+    
+    },
+    {
+        "question": "Name a food that you might lick.",
+        "answer1": {"text": "Ice cream", "points": 40},
+        "answer2": {"text": "Lollipop", "points": 25},
+        "answer3": {"text": "Stamp", "points": 16},
+        "answer4": {"text": "Popsicle", "points": 11},
+        "answer5": {"text": "Envelope", "points": 8}
+    
+    },
+    {
+        "question": "Name something you'd do in front of a mirror.",
+        "answer1": {"text": "Brush teeth", "points": 26},
+        "answer2": {"text": "Brush hair", "points": 23},
+        "answer3": {"text": "Pop a pimple/zit", "points": 19},
+        "answer4": {"text": "Check your outfit", "points": 17},
+        "answer5": {"text": "Practice dance moves", "points": 15}
+    
+    },
+    {
+        "question": "Name something people tend to fall out of.",
+        "answer1": {"text": "Tree", "points": 36},
+        "answer2": {"text": "Love", "points": 25},
+        "answer3": {"text": "Bed", "points": 21},
+        "answer4": {"text": "Chair", "points": 12},
+        "answer5": {"text": "Car", "points": 6}
+    
+    },
+    {
+        "question": "Name a reason to celebrate a party.",
+        "answer1": {"text": "Graduation", "points": 32},
+        "answer2": {"text": "Wedding", "points": 26},
+        "answer3": {"text": "Holiday Party", "points": 20},
+        "answer4": {"text": "Bar Mitzvah", "points": 14},
+        "answer5": {"text": "Bachelor/Bachelorette", "points": 8}
+    
+    },
+    {
+        "question": "Name something you might eat with crackers.",
+        "answer1": {"text": "Soup", "points": 28},
+        "answer2": {"text": "Cheese", "points": 24},
+        "answer3": {"text": "Peanut Butter", "points": 21},
+        "answer4": {"text": "Chili", "points": 16},
+        "answer5": {"text": "Sliced meats", "points": 11}
+    
+    },
+    {
+        "question": "Name ways to get rich quickly.",
+        "answer1": {"text": "Invest", "points": 28},
+        "answer2": {"text": "Save money", "points": 24},
+        "answer3": {"text": "Buy bitcoin", "points": 20},
+        "answer4": {"text": "Gamble", "points": 15},
+        "answer5": {"text": "Get a job", "points": 13}
+    
+    },
+    {
+        "question": "Name something you might do at night.",
+        "answer1": {"text": "Read a book", "points": 26},
+        "answer2": {"text": "Play on your phone", "points": 23},
+        "answer3": {"text": "Play a board game", "points": 20},
+        "answer4": {"text": "Play a video-game", "points": 17},
+        "answer5": {"text": "Meditate", "points": 14}
+    
+    },
+    {
+        "question": "Name hot things.",
+        "answer1": {"text": "Fire", "points": 26},
+        "answer2": {"text": "Coffee", "points": 24},
+        "answer3": {"text": "Tea", "points": 21},
+        "answer4": {"text": "Stove", "points": 16},
+        "answer5": {"text": "Fireplace", "points": 13}
+    
+    },
+    {
+        "question": "Name gifts to surprise a person you know.",
+        "answer1": {"text": "New car", "points": 30},
+        "answer2": {"text": "Clothes", "points": 25},
+        "answer3": {"text": "Gift card", "points": 20},
+        "answer4": {"text": "Money", "points": 14},
+        "answer5": {"text": "Jewelry", "points": 11}
+    
+    },
+    {
+        "question": "Name things you would post on social media.",
+        "answer1": {"text": "Selfie", "points": 31},
+        "answer2": {"text": "Vacation pictures", "points": 24},
+        "answer3": {"text": "Pictures of friends", "points": 19},
+        "answer4": {"text": "Your meal", "points": 15},
+        "answer5": {"text": "Your coffee", "points": 11}
+
+    },
+    {
+        "question": "Give me a three-letter word that starts with the letter 'Z.'",
+        "answer1": {"text": "Zoo", "points": 40},
+        "answer2": {"text": "Zip", "points": 18},
+        "answer3": {"text": "Zap", "points": 15},
+        "answer4": {"text": "Zen", "points": 13},
+        "answer5": {"text": "Zit", "points": 13}
+    
+    },
+    {
+        "question": "Name something you'd do if your date took you to Chuck E. Cheese.",
+        "answer1": {"text": "Play games", "points": 29},
+        "answer2": {"text": "Leave/walk out", "points": 28},
+        "answer3": {"text": "Eat lots of pizza", "points": 15},
+        "answer4": {"text": "Dump him", "points": 15},
+        "answer5": {"text": "Laugh", "points": 12}
+    
+    },
+    {
+        "question": "Name your favorite thing to do at parties.",
+        "answer1": {"text": "Dance", "points": 45},
+        "answer2": {"text": "Socialize/talk", "points": 21},
+        "answer3": {"text": "Drink", "points": 18},
+        "answer4": {"text": "Eat", "points": 8},
+        "answer5": {"text": "Sing karaoke", "points": 6}
+    
+    },
+    {
+        "question": "Name something people say is on the house.",
+        "answer1": {"text": "Drink", "points": 88},
+        "answer2": {"text": "Dessert/meal", "points": 3},
+        "answer3": {"text": "Address", "points": 2},
+        "answer4": {"text": "Chimney", "points": 2},
+        "answer5": {"text": "Roof", "points": 2}
+    
+    },
+    {
+        "question": "Which of the Seven Dwarfs describes how you feel after a couple of drinks?",
+        "answer1": {"text": "Happy", "points": 56},
+        "answer2": {"text": "Dopey", "points": 25},
+        "answer3": {"text": "Sleepy", "points": 10},
+        "answer4": {"text": "Bashful", "points": 5},
+        "answer5": {"text": "Grumpy", "points": 3}
+    
+    },
+    {
+        "question": "Fill in the blank: Hold the ____.",
+        "answer1": {"text": "Phone", "points": 26},
+        "answer2": {"text": "Door", "points": 14},
+        "answer3": {"text": "Mayo", "points": 10},
+        "answer4": {"text": "Elevator", "points": 9},
+        "answer5": {"text": "Line", "points": 6}
+    
+    },
+    {
+        "question": "Roses are red. Violets are blue. What kind of flowers do cheap guys buy you?",
+        "answer1": {"text": "Daisies", "points": 39},
+        "answer2": {"text": "Carnations", "points": 38},
+        "answer3": {"text": "None/invisible", "points": 9},
+        "answer4": {"text": "Tulips", "points": 6},
+        "answer5": {"text": "Dandelions", "points": 3}
+
+    },
+    {
+        "question": "Name a weather condition that would be a good name for a wrestler.",
+        "answer1": {"text": "Tornado", "points": 19},
+        "answer2": {"text": "Stormy/storm", "points": 18},
+        "answer3": {"text": "Thunder/thunderstorm", "points": 16},
+        "answer4": {"text": "Hurricane", "points": 12},
+        "answer5": {"text": "Tsunami", "points": 6}
+    
+    },
+    {
+        "question": "Name a word that rhymes with 'will' that's associated with doctors.",
+        "answer1": {"text": "Bill", "points": 63},
+        "answer2": {"text": "Pill", "points": 22},
+        "answer3": {"text": "Kill", "points": 10},
+        "answer4": {"text": "Chill", "points": 3},
+        "answer5": {"text": "Ill", "points": 2}
+    
+    },
+    {
+        "question": "What's something that can turn an ordinary bath into a romantic one?",
+        "answer1": {"text": "Candles", "points": 39},
+        "answer2": {"text": "Bubbles", "points": 34},
+        "answer3": {"text": "Rose petals", "points": 9},
+        "answer4": {"text": "Another person", "points": 7},
+        "answer5": {"text": "Music", "points": 3}
+    
+    },
+    {
+        "question": "Name a place that's filled with people who don't want to be there.",
+        "answer1": {"text": "Jail/prison", "points": 36},
+        "answer2": {"text": "Hell", "points": 10},
+        "answer3": {"text": "Work/meetings", "points": 10},
+        "answer4": {"text": "Cemetery", "points": 8},
+        "answer5": {"text": "Church", "points": 8}
+    
+    },
+    {
+        "question": "Name something specific you make sure to clean before company comes over.",
+        "answer1": {"text": "Bathroom", "points": 59},
+        "answer2": {"text": "Kitchen", "points": 18},
+        "answer3": {"text": "Carpet/floor", "points": 11},
+        "answer4": {"text": "Living room", "points": 3},
+        "answer5": {"text": "Myself", "points": 3}
+    
+    },
+    {
+        "question": "Name a movie monster you think could take Dracula in a fight.",
+        "answer1": {"text": "Godzilla", "points": 43},
+        "answer2": {"text": "Frankenstein", "points": 26},
+        "answer3": {"text": "King Kong", "points": 13},
+        "answer4": {"text": "Wolf-man/werewolf", "points": 10},
+        "answer5": {"text": "Freddy Krueger", "points": 5}
+    
+    },
+    {
+        "question": "Name an office supply you'd use to pick food out of your teeth.",
+        "answer1": {"text": "Paper clip", "points": 53},
+        "answer2": {"text": "Paper/envelope", "points": 12},
+        "answer3": {"text": "Pen/pencil", "points": 9},
+        "answer4": {"text": "Staple", "points": 9},
+        "answer5": {"text": "Letter opener", "points": 8}
+    
+    },
+    {
+        "question": "Fill in the blank: In the bedroom, my husband's superhero name would be ____ Man.",
+        "answer1": {"text": "Iron Man", "points": 25},
+        "answer2": {"text": "Superman", "points": 24},
+        "answer3": {"text": "Minuteman", "points": 14},
+        "answer4": {"text": "Macho Man", "points": 11},
+        "answer5": {"text": "Batman", "points": 11}
+    
+    },
+    {
+        "question": "Name something that might be referred to as a dead end.",
+        "answer1": {"text": "A street/road", "points": 47},
+        "answer2": {"text": "A job", "points": 28},
+        "answer3": {"text": "A relationship", "points": 14},
+        "answer4": {"text": "An argument", "points": 5},
+        "answer5": {"text": "A lead/info", "points": 2}
+    
+    },
+    {
+        "question": "Name something a husband might find all over the bed that makes him suspect his wife is having an affair with a baker.",
+        "answer1": {"text": "Flour", "points": 70},
+        "answer2": {"text": "Baked goods/crumbs", "points": 10},
+        "answer3": {"text": "Sugar", "points": 10},
+        "answer4": {"text": "Icing/frosting", "points": 5},
+        "answer5": {"text": "Dough", "points": 2}
+    
+    },
+    {
+        "question": "If Batman went broke, he just might have to sell his Bat-what?",
+        "answer1": {"text": "Bat-mobile", "points": 81},
+        "answer2": {"text": "Bat-cave", "points": 9},
+        "answer3": {"text": "Bat-copter", "points": 2},
+        "answer4": {"text": "Bat-cycle", "points": 2},
+        "answer5": {"text": "Bat-plane", "points": 2}
+    
+    },
+    {
+        "question": "Name someplace a teenager complains about having to go.",
+        "answer1": {"text": "School/college", "points": 56},
+        "answer2": {"text": "Church", "points": 26},
+        "answer3": {"text": "Family function", "points": 9},
+        "answer4": {"text": "Dentist/doctor", "points": 4},
+        "answer5": {"text": "Grocery store", "points": 2}
+    
+    },
+    {
+        "question": "What's the most fun thing to do with another woman?",
+        "answer1": {"text": "Shop", "points": 46},
+        "answer2": {"text": "Yak/gossip", "points": 31},
+        "answer3": {"text": "Dine out", "points": 6},
+        "answer4": {"text": "Drink cocktails", "points": 5},
+        "answer5": {"text": "Laugh", "points": 4}
+    
+    },
+    {
+        "question": "Name a way eggs are prepared that could also describe a person.",
+        "answer1": {"text": "Scrambled", "points": 53},
+        "answer2": {"text": "Hard-boiled", "points": 13},
+        "answer3": {"text": "Over easy", "points": 12},
+        "answer4": {"text": "Fried", "points": 11},
+        "answer5": {"text": "Sunny-side up", "points": 7}
+    
+    },
+    {
+        "question": "Name something specific that has a long neck.",
+        "answer1": {"text": "Giraffe", "points": 78},
+        "answer2": {"text": "Ostrich", "points": 10},
+        "answer3": {"text": "Bottle/beer bottle", "points": 4},
+        "answer4": {"text": "Crane", "points": 3},
+        "answer5": {"text": "Swan", "points": 3}
+    
+    },
+    {
+        "question": "Name something that some people are afraid to ride on or in.",
+        "answer1": {"text": "Airplane", "points": 44},
+        "answer2": {"text": "Motorcycle", "points": 21},
+        "answer3": {"text": "Roller coaster", "points": 16},
+        "answer4": {"text": "Boat", "points": 4},
+        "answer5": {"text": "Horse", "points": 4}
+    
+    },
+    {
+        "question": "Fill in the blank: Tongue ______.",
+        "answer1": {"text": "Tongue-tied", "points": 33},
+        "answer2": {"text": "Tongue-in-cheek", "points": 23},
+        "answer3": {"text": "Tongue twister", "points": 10},
+        "answer4": {"text": "Tongue lashing", "points": 8},
+        "answer5": {"text": "Tongue depressor", "points": 7}
+    
+    },
+    {
+        "question": "Name something that has the word 'super' in it.",
+        "answer1": {"text": "Superman", "points": 47},
+        "answer2": {"text": "Super Bowl", "points": 9},
+        "answer3": {"text": "Supermarket", "points": 9},
+        "answer4": {"text": "Super blue", "points": 6},
+        "answer5": {"text": "Superintendent", "points": 6}
+    
+    },
+    {
+        "question": "If a man ran out of deodorant, name a fruit he might rub under his pits to hide the odor.",
+        "answer1": {"text": "Orange", "points": 38},
+        "answer2": {"text": "Lemon", "points": 35},
+        "answer3": {"text": "Apple", "points": 7},
+        "answer4": {"text": "Banana", "points": 3},
+        "answer5": {"text": "Pineapple", "points": 7}
+    
+    },
+    {
+        "question": "Name something that comes in packs of six or 12.",
+        "answer1": {"text": "Beer", "points": 35},
+        "answer2": {"text": "Soda", "points": 36},
+        "answer3": {"text": "Donuts", "points": 3},
+        "answer4": {"text": "Eggs", "points": 9},
+        "answer5": {"text": "Hot dogs", "points": 4}
+    
+    },
+    {
+        "question": "Name a US city where lots of rich people live.",
+        "answer1": {"text": "LA/Beverly Hills", "points": 48},
+        "answer2": {"text": "New York", "points": 21},
+        "answer3": {"text": "Miami", "points": 9},
+        "answer4": {"text": "Las Vegas", "points": 8},
+        "answer5": {"text": "Palm Beach", "points": 4}
+    
+    },
+    {
+        "question": "Fill in the blank: Lady _____.",
+        "answer1": {"text": "Lady Gaga", "points": 27},
+        "answer2": {"text": "Lady Luck", "points": 24},
+        "answer3": {"text": "Lady Godiva", "points": 18},
+        "answer4": {"text": "Lady parts", "points": 3},
+        "answer5": {"text": "Lady-killer", "points": 4}
+    
+    },
+    {
+        "question": "Name a way your man is like a good cut of meat.",
+        "answer1": {"text": "Beefy", "points": 11},
+        "answer2": {"text": "Juicy", "points": 10},
+        "answer3": {"text": "Lean", "points": 24},
+        "answer4": {"text": "Prime", "points": 7},
+        "answer5": {"text": "Rare", "points": 6}
+    
+    },
+    {
+        "question": "Fill in the blank: Having a bird poop on you is bad, but imagine how much worse it would be if ______ could fly.",
+        "answer1": {"text": "Elephants", "points": 29},
+        "answer2": {"text": "Cows", "points": 22},
+        "answer3": {"text": "Pigs", "points": 21},
+        "answer4": {"text": "Horses", "points": 12},
+        "answer5": {"text": "Dogs", "points": 7}
+    
+    },
+    {
+        "question": "Name a good place to go when you want to cry.",
+        "answer1": {"text": "Bed/bedroom", "points": 46},
+        "answer2": {"text": "Shower/bathroom", "points": 27},
+        "answer3": {"text": "Movie/theater", "points": 9},
+        "answer4": {"text": "A friend's", "points": 3},
+        "answer5": {"text": "My car", "points": 4}
+    
+    },
+    {
+        "question": "If you ran your fingers through a man's hair, what would you hate to find in it?",
+        "answer1": {"text": "Lice/bugs", "points": 45},
+        "answer2": {"text": "Dandruff", "points": 13},
+        "answer3": {"text": "Dirt", "points": 13},
+        "answer4": {"text": "Oil/grease", "points": 9},
+        "answer5": {"text": "Gel", "points": 6}
+    
+    },
+    {
+        "question": "Name something people deliver for a living.",
+        "answer1": {"text": "Newspapers", "points": 33},
+        "answer2": {"text": "Mail", "points": 28},
+        "answer3": {"text": "Pizza", "points": 20},
+        "answer4": {"text": "Flowers", "points": 6},
+        "answer5": {"text": "Packages", "points": 3}
+    
+    },
+    {
+        "question": "Name an animal that's easy to imitate in charades.",
+        "answer1": {"text": "Monkey/ape", "points": 32},
+        "answer2": {"text": "Dog", "points": 21},
+        "answer3": {"text": "Cat", "points": 16},
+        "answer4": {"text": "Bird", "points": 14},
+        "answer5": {"text": "Elephant", "points": 4}
+    
+    },
+    {
+        "question": "After you murder someone, name something specific you must quickly get rid of.",
+        "answer1": {"text": "The weapon", "points": 58},
+        "answer2": {"text": "The body", "points": 27},
+        "answer3": {"text": "Blood", "points": 6},
+        "answer4": {"text": "Fingerprints", "points": 5},
+        "answer5": {"text": "My clothes/shoes", "points": 4}
+    
+    },
+    {
+        "question": "Tell me something you have that has lasted longer than most of your relationships.",
+        "answer1": {"text": "Shoes/clothes", "points": 17},
+        "answer2": {"text": "Jewelry/watch", "points": 13},
+        "answer3": {"text": "House", "points": 10},
+        "answer4": {"text": "Car", "points": 9},
+        "answer5": {"text": "Friendships", "points": 8}
+    
+    },
+    {
+        "question": "Give me one word you'd use to describe the last kiss your man gave you.",
+        "answer1": {"text": "Warm", "points": 27},
+        "answer2": {"text": "Sloppy", "points": 25},
+        "answer3": {"text": "Wet", "points": 21},
+        "answer4": {"text": "Quick", "points": 14},
+        "answer5": {"text": "Sweet", "points": 5}
+    
+    },
+    {
+        "question": "What US state do you think has the most beautiful women?",
+        "answer1": {"text": "California", "points": 53},
+        "answer2": {"text": "Florida", "points": 15},
+        "answer3": {"text": "Hawaii", "points": 12},
+        "answer4": {"text": "New York", "points": 9},
+        "answer5": {"text": "Indiana", "points": 2}
+    
+    },
+    {
+        "question": "Name something that's cheap and greasy.",
+        "answer1": {"text": "Burger", "points": 36},
+        "answer2": {"text": "French fries", "points": 32},
+        "answer3": {"text": "Chicken/wings", "points": 7},
+        "answer4": {"text": "Oil/grease/lard", "points": 7},
+        "answer5": {"text": "Pizza", "points": 5}
+    
+    },
+    {
+        "question": "Fill in the blank: My man is a love ____.",
+        "answer1": {"text": "Machine", "points": 42},
+        "answer2": {"text": "Bug", "points": 14},
+        "answer3": {"text": "Muffin", "points": 10},
+        "answer4": {"text": "Addict", "points": 10},
+        "answer5": {"text": "Hound", "points": 8}
+    
+    },
+    {
+        "question": "Tell me something of yours that you swear is possessed.",
+        "answer1": {"text": "Children", "points": 16},
+        "answer2": {"text": "Car", "points": 14},
+        "answer3": {"text": "House", "points": 10},
+        "answer4": {"text": "Pet", "points": 10},
+        "answer5": {"text": "Computer", "points": 9}
+    
+    },
+    {
+        "question": "Name a kind of ball it might feel like a woman is pushing out when she gives birth.",
+        "answer1": {"text": "Basketball", "points": 49},
+        "answer2": {"text": "Bowling ball", "points": 17},
+        "answer3": {"text": "Football", "points": 8},
+        "answer4": {"text": "Beach ball", "points": 7},
+        "answer5": {"text": "Soccer ball", "points": 6}
+    
+    },
+    {
+        "question": "Name a word a dog understands.",
+        "answer1": {"text": "Sit", "points": 54},
+        "answer2": {"text": "Come", "points": 11},
+        "answer3": {"text": "Walk", "points": 6},
+        "answer4": {"text": "Food", "points": 6},
+        "answer5": {"text": "Their name", "points": 5}
+    
+    },
+    {
+        "question": "Give me a phrase that starts with the words, 'Off the...'",
+        "answer1": {"text": "Off the wall", "points": 34},
+        "answer2": {"text": "Off the hook", "points": 29},
+        "answer3": {"text": "Off the cuff", "points": 10},
+        "answer4": {"text": "Off the record", "points": 7},
+        "answer5": {"text": "Off the chart", "points": 6}
+    
+    },
+    {
+        "question": "Tell me a country where you think the men are sexier than American men.",
+        "answer1": {"text": "Italy", "points": 35},
+        "answer2": {"text": "France", "points": 15},
+        "answer3": {"text": "Australia", "points": 12},
+        "answer4": {"text": "England", "points": 6},
+        "answer5": {"text": "Spain", "points": 6}
+    
+    },
+    {
+        "question": "Name something you stuff just as full as you can get it.",
+        "answer1": {"text": "Turkey", "points": 39},
+        "answer2": {"text": "Trash cans", "points": 14},
+        "answer3": {"text": "Christmas stocking", "points": 6},
+        "answer4": {"text": "Suitcase", "points": 6},
+        "answer5": {"text": "Pillow", "points": 6}
+    
+    },
+    {
+        "question": "If a man speaks seven languages, which one would he use when he wants to sound sexy?",
+        "answer1": {"text": "French", "points": 60},
+        "answer2": {"text": "Italian", "points": 23},
+        "answer3": {"text": "English/Cockney", "points": 8},
+        "answer4": {"text": "Spanish", "points": 3},
+        "answer5": {"text": "Body language", "points": 2}
+    
+    },
+    {
+        "question": "Name a good musical instrument for someone who is full of hot air.",
+        "answer1": {"text": "Tuba", "points": 56},
+        "answer2": {"text": "Trumpet", "points": 17},
+        "answer3": {"text": "Trombone", "points": 8},
+        "answer4": {"text": "Bagpipes", "points": 8},
+        "answer5": {"text": "Saxophone", "points": 5}
+    
+    },
+    {
+        "question": "You know a guy is really into you if he kisses your what?",
+        "answer1": {"text": "Forehead/head", "points": 30},
+        "answer2": {"text": "Cheek", "points": 22},
+        "answer3": {"text": "Neck", "points": 15},
+        "answer4": {"text": "Lips", "points": 14},
+        "answer5": {"text": "Hand", "points": 11}
+    
+    },
+    {
+        "question": "Name an animal that doesn't have a leg to stand on.",
+        "answer1": {"text": "Snake", "points": 59},
+        "answer2": {"text": "Fish/shark/eel", "points": 23},
+        "answer3": {"text": "Whale", "points": 5},
+        "answer4": {"text": "Seal/sea lion", "points": 4},
+        "answer5": {"text": "Dolphin/porpoise", "points": 3}
+    
+    },
+    {
+        "question": "What would it be hard to do if you accidentally put on superglue instead of lipstick?",
+        "answer1": {"text": "Eat", "points": 32},
+        "answer2": {"text": "Talk", "points": 32},
+        "answer3": {"text": "Kiss", "points": 25},
+        "answer4": {"text": "Breathe", "points": 8},
+        "answer5": {"text": "Take it off", "points": 2}
+    
+    },
+    {
+        "question": "Name an animal that might like to watch the DVD Squirrels Gone Wild.",
+        "answer1": {"text": "Dog", "points": 39},
+        "answer2": {"text": "Cat", "points": 21},
+        "answer3": {"text": "Squirrel", "points": 21},
+        "answer4": {"text": "Chipmunk", "points": 8},
+        "answer5": {"text": "Coyote", "points": 3}
+    
+    },
+    {
+        "question": "Name the first thing Steve Harvey would remove if he were in a game of strip poker.",
+        "answer1": {"text": "His tie", "points": 42},
+        "answer2": {"text": "His shoes", "points": 15},
+        "answer3": {"text": "His shirt", "points": 14},
+        "answer4": {"text": "His jacket", "points": 9},
+        "answer5": {"text": "His hat", "points": 6}
+
+    },
+    {
+        "question": "Name a place you stop going to when you're broke.",
+        "answer1": {"text": "Restaurants", "points": 32},
+        "answer2": {"text": "Store/mall", "points": 16},
+        "answer3": {"text": "Bar/nightclub", "points": 16},
+        "answer4": {"text": "Casino", "points": 15},
+        "answer5": {"text": "The movies", "points": 8}
+    
+    },
+    {
+        "question": "Name a place you'd hate to find toenail clippings.",
+        "answer1": {"text": "My food/plate", "points": 48},
+        "answer2": {"text": "My bed", "points": 36},
+        "answer3": {"text": "On floor/in rug", "points": 6},
+        "answer4": {"text": "Table/counter", "points": 5},
+        "answer5": {"text": "On couch", "points": 2}
+    
+    },
+    {
+        "question": "In one word, describe the underwear your man is wearing right now.",
+        "answer1": {"text": "Boxers", "points": 31},
+        "answer2": {"text": "Tighty-whities", "points": 23},
+        "answer3": {"text": "Briefs", "points": 19},
+        "answer4": {"text": "None", "points": 6},
+        "answer5": {"text": "Torn", "points": 5}
+    
+    },
+    {
+        "question": "Name an American city where they know how to party hard.",
+        "answer1": {"text": "New Orleans", "points": 31},
+        "answer2": {"text": "New York", "points": 21},
+        "answer3": {"text": "Las Vegas", "points": 19},
+        "answer4": {"text": "Los Angeles", "points": 10},
+        "answer5": {"text": "Miami", "points": 4}
+    
+    },
+    {
+        "question": "Name something you associate with camels.",
+        "answer1": {"text": "Hump", "points": 71},
+        "answer2": {"text": "Desert", "points": 13},
+        "answer3": {"text": "Cigarettes", "points": 5},
+        "answer4": {"text": "Toe/foot", "points": 3},
+        "answer5": {"text": "Water", "points": 3}
+    
+    },
+    {
+        "question": "If Steve Harvey were your neighbor, name something of his you might ask to borrow.",
+        "answer1": {"text": "Car", "points": 24},
+        "answer2": {"text": "Suits/clothes", "points": 19},
+        "answer3": {"text": "$15 million", "points": 17},
+        "answer4": {"text": "Jokes/humor", "points": 7},
+        "answer5": {"text": "Mower/lawn service", "points": 5}
+    
+    },
+    {
+        "question": "Name a place you'd hate to spend even one night.",
+        "answer1": {"text": "In-laws' home", "points": 20},
+        "answer2": {"text": "Jail/prison", "points": 19},
+        "answer3": {"text": "Hospital", "points": 12},
+        "answer4": {"text": "Office/work", "points": 8},
+        "answer5": {"text": "On the couch", "points": 7}
+
+    }
+]

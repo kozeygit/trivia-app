@@ -123,11 +123,7 @@
           <div id="round-points">{{ total_points }}</div>
         </div>
         <div class="answer-btns">
-          <button
-            class="wrong-answer-btn"
-            onclick="wrong_answer()"
-            type="button"
-          >
+          <button class="wrong-answer-btn" onclick="wrong_answer()" type="button">
             <p>Wrong Answer</p>
           </button>
           <button class="reveal-btn" onclick="reveal_question()" type="button">
@@ -146,12 +142,16 @@
             <p>BUZZERS OFF</p>
           </button>
         </div>
-        <button class="new_question-btn" onclick="new_question()" type="button">
-          <p>New Question</p>
-        </button>
-        <button class="buzz-whenever" onclick="buzz_whenever()" type="button">
-          <p>WRONG BUZZER</p>
-        </button>
+        
+        <div class="btn-pair">
+          <button class="new_question-btn" onclick="new_question()" type="button">
+            <p>New Question</p>
+          </button>
+          <button class="buzz-whenever" onclick="buzz_whenever()" type="button">
+            <p>WRONG BUZZER</p>
+          </button>
+        </div>
+        
         <div class="sound-btns">
           <button class="sound-btn" onclick="play_sound('timer')" type="button">
             <p>Timer</p>
