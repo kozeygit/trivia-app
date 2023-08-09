@@ -111,6 +111,12 @@
             </div>
           </div>
         </div>
+        <div class="timer-container left" onclick=move_timer()>
+          <div class="timer"></div>
+        </div>
+        <div class="timer-container right">
+          <div class="timer"></div>
+        </div>
       </div>
     </main>
   </body>
@@ -122,6 +128,31 @@
   ></script>
 
   <script>
+
+    function move_timer() {
+
+      const left_timer_div = document.querySelector(".left .timer");
+      const right_timer_div = document.querySelector(".right .timer");
+      left_timer_div.style.transform = "translateY(0)";
+      right_timer_div.style.transform = "translateY(0)";
+
+      let start_time = Date.now();
+
+      let timer = setInterval(function() {
+        let time_passed = Date.now() - start_time;
+        if (time_passed >= 20000) {
+          clearInterval(timer);
+          return;
+        }
+        
+        let new_position = (time_passed / 20000) * 100;
+        let new_translate_str = `translateY(${String(new_position)}%)`
+        left_timer_div.style.transform = new_translate_str;
+        right_timer_div.style.transform = new_translate_str;
+
+      }, 20);
+    }
+    
     var socket = io();
 
     const round_data = {

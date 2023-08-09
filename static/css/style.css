@@ -302,3 +302,35 @@ div p {
   margin: 20px;
   padding-inline: 10px;
 }
+
+.timer-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 80vh;
+  width: 100px;
+  border: white solid 5px;
+  border-radius: 20px;
+  background: white;
+  overflow: hidden;
+  box-shadow: 10px 10px 20px rgb(0, 0, 0, 0.3);
+}
+
+.timer {
+  background-image: linear-gradient(
+    to top,
+    rgb(253, 138, 178),
+    rgb(252, 195, 157)
+  );
+  height: 100%;
+  width: 100%;
+}
+
+.left {
+  left: 130px;
+}
+
+.right {
+  right: 130px;
+}
