@@ -215,7 +215,10 @@ def handle_get_buzzer_state():
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-
+@socketio.on("controller_countdown")
+def controller_countdown():
+    socketio.emit("presenter_countdown")
+    
 
 @socketio.on("controller_new_question")
 def controller_new_question():

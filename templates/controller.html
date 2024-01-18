@@ -165,7 +165,7 @@
           <button class="sound-btn" onclick="play_sound('hold')" type="button">
             <p>Hold</p>
           </button>
-          <button class="sound-btn" onclick="play_sound('countdown')" type="button">
+          <button class="sound-btn" onclick="countdown()" type="button">
             <p>Countdown</p>
           </button>
         </div>
@@ -191,6 +191,11 @@
       round_over: 0,
       buzzer_state: false
     };
+
+    function countdown() {
+      navigator.vibrate(50);
+      socket.emit("controller_countdown");
+    }
 
     function play_sound(sound) {
       navigator.vibrate(50);

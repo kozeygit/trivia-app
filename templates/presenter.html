@@ -385,6 +385,10 @@
       countdown: countdown_sound
     };
 
+    sounds.forEach((sound) => {
+      sound.preload = "auto"
+    })
+
     socket.on("play_sound", (args) => {
       let sound = args["sound"];
       let override = args["override"];
