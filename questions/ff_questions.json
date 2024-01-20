@@ -1,51 +1,51 @@
 [
     {
         "question": "We Asked 100 Mums: On A Scale From 1-10, How Much Have You Become Like Your Own Mom With Age?",
-        "answer1": {"text": 10, "points": 31},
-        "answer2": {"text": 8, "points": 26},
-        "answer3": {"text": 5, "points": 17},
-        "answer4": {"text": 7, "points": 13},
-        "answer5": {"text": 9, "points": 10}
+        "answer1": {"text": "10", "points": 31},
+        "answer2": {"text": "8", "points": 26},
+        "answer3": {"text": "5", "points": 17},
+        "answer4": {"text": "7", "points": 13},
+        "answer5": {"text": "9", "points": 10}
     },
     {
         "question": "How Many Hours Of Sleep Does The Average Person Need In Order To Wake Up Refreshed?",
-        "answer1": {"text": 8, "points": 47},
-        "answer2": {"text": 7, "points": 18},
-        "answer3": {"text": 6, "points": 17},
-        "answer4": {"text": 10, "points": 3},
-        "answer5": {"text": 9, "points": 3}
+        "answer1": {"text": "8", "points": 47},
+        "answer2": {"text": "7", "points": 18},
+        "answer3": {"text": "6", "points": 17},
+        "answer4": {"text": "10", "points": 3},
+        "answer5": {"text": "9", "points": 3}
     },
     {
         "question": "How Old Were You When You Babysat For The First Time?",
-        "answer1": {"text": 12, "points": 30},
-        "answer2": {"text": 13, "points": 29},
-        "answer3": {"text": 14, "points": 14},
-        "answer4": {"text": 15, "points": 11},
-        "answer5": {"text": 10, "points": 7}
+        "answer1": {"text": "12", "points": 30},
+        "answer2": {"text": "13", "points": 29},
+        "answer3": {"text": "14", "points": 14},
+        "answer4": {"text": "15", "points": 11},
+        "answer5": {"text": "10", "points": 7}
     },
     {
         "question": "At What Age Might A Man Have Mid-life Crisis?",
-        "answer1": {"text": 40, "points": 35},
-        "answer2": {"text": 45, "points": 21},
-        "answer3": {"text": 50, "points": 20},
-        "answer4": {"text": 30, "points": 7},
-        "answer5": {"text": 35, "points": 5}
+        "answer1": {"text": "40", "points": 35},
+        "answer2": {"text": "45", "points": 21},
+        "answer3": {"text": "50", "points": 20},
+        "answer4": {"text": "30", "points": 7},
+        "answer5": {"text": "35", "points": 5}
     },
     {
         "question": "Name The Age At Which A Man May Get Thick Around The Middle.",
-        "answer1": {"text": 40, "points": 42},
-        "answer2": {"text": 30, "points": 21},
-        "answer3": {"text": 35, "points": 16},
-        "answer4": {"text": 45, "points": 9},
-        "answer5": {"text": 50, "points": 8}
+        "answer1": {"text": "40", "points": 42},
+        "answer2": {"text": "30", "points": 21},
+        "answer3": {"text": "35", "points": 16},
+        "answer4": {"text": "45", "points": 9},
+        "answer5": {"text": "50", "points": 8}
     },
     {
         "question": "Tell Me The Age That Most People Want To Live Until",
-        "answer1": {"text": 100, "points": 51},
-        "answer2": {"text": 80, "points": 21},
-        "answer3": {"text": 90, "points": 15},
-        "answer4": {"text": 70, "points": 5},
-        "answer5": {"text": 75, "points": 5}
+        "answer1": {"text": "100", "points": 51},
+        "answer2": {"text": "80", "points": 21},
+        "answer3": {"text": "90", "points": 15},
+        "answer4": {"text": "70", "points": 5},
+        "answer5": {"text": "75", "points": 5}
     },
     {
         "question": "If You Got Stuck In The Desert, What Would You Want To Have With You?",
@@ -2977,11 +2977,11 @@
     },
     {
         "question": "how Many Hours Of Sleep Does The average person Need In Oder To Wake Up Refreshed?",
-        "answer1": {"text": 8, "points": 47},
-        "answer2": {"text": 7, "points": 18},
-        "answer3": {"text": 6, "points": 17},
-        "answer4": {"text": 10, "points": 3},
-        "answer5": {"text": 9, "points": 3}
+        "answer1": {"text": "8", "points": 47},
+        "answer2": {"text": "7", "points": 18},
+        "answer3": {"text": "6", "points": 17},
+        "answer4": {"text": "10", "points": 3},
+        "answer5": {"text": "9", "points": 3}
     },
     {
         "question": "Name Something That Happens To An Old Person’s Body, That You’d Be Surprised To Hear A teen Complaining About",
@@ -3113,11 +3113,11 @@
     },
     {
         "question": "Tell Me The Age That Most People Want To Live Until.",
-        "answer1": {"text": 100, "points": 51},
-        "answer2": {"text": 80, "points": 21},
-        "answer3": {"text": 90, "points": 15},
-        "answer4": {"text": 75, "points": 5},
-        "answer5": {"text": 70, "points": 5}
+        "answer1": {"text": "100", "points": 51},
+        "answer2": {"text": "80", "points": 21},
+        "answer3": {"text": "90", "points": 15},
+        "answer4": {"text": "75", "points": 5},
+        "answer5": {"text": "70", "points": 5}
     },
     {
         "question": "Name A Time When You Should Not Send A Text Message To Your Love Interest.",
@@ -3353,10 +3353,10 @@
     },
     {
         "question": "Name The Age At Which People Stop Borrowing Money From Their Parents",
-        "answer1": {"text": 35, "points": 27},
-        "answer2": {"text": 25, "points": 24},
-        "answer3": {"text": 21, "points": 21},
-        "answer4": {"text": 18, "points": 16},
+        "answer1": {"text": "35", "points": 27},
+        "answer2": {"text": "25", "points": 24},
+        "answer3": {"text": "21", "points": 21},
+        "answer4": {"text": "18", "points": 16},
         "answer5": {"text": "Never" ,"points": 10}
     },
     {
@@ -4945,11 +4945,11 @@
     },
     {
         "question": "We asked 100 Women: At what age is a man most handsome?(NUMBERS ONLY)",
-        "answer1": {"text": 30, "points": 37},
-        "answer2": {"text": 40, "points": 30},
-        "answer3": {"text": 25, "points": 17},
-        "answer4": {"text": 35, "points": 6},
-        "answer5": {"text": 20, "points": 4}
+        "answer1": {"text": "30", "points": 37},
+        "answer2": {"text": "40", "points": 30},
+        "answer3": {"text": "25", "points": 17},
+        "answer4": {"text": "35", "points": 6},
+        "answer5": {"text": "20", "points": 4}
     },
     {
         "question": "Name A Kind Of Pyramid.",
@@ -5953,11 +5953,11 @@
     },
     {
         "question": "How Many Days Does A Cold Last?",
-        "answer1": {"text": 7, "points": 36},
-        "answer2": {"text": 3, "points": 25},
-        "answer3": {"text": 5, "points": 17},
-        "answer4": {"text": 4, "points": 10},
-        "answer5": {"text": 6, "points": 6}
+        "answer1": {"text": "7", "points": 36},
+        "answer2": {"text": "3", "points": 25},
+        "answer3": {"text": "5", "points": 17},
+        "answer4": {"text": "4", "points": 10},
+        "answer5": {"text": "6", "points": 6}
     },
     {
         "question": "Name Something You Do When Approached By A Salesperson At A Store.",

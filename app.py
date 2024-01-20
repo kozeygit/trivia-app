@@ -8,7 +8,7 @@
 
 from flask import Flask, render_template, request, session, url_for, redirect
 from flask_socketio import SocketIO, join_room, leave_room, close_room
-from game_logic import Question, Round, generate_id
+from game_logic import Question, Round
 
 # Creates the flask app
 app = Flask(__name__)
@@ -54,13 +54,13 @@ def join_team():
     session.clear()
     if request.method == "POST":
 
-        c = request.form.get("controller", False)
-        p = request.form.get("presenter", False)
+        c = request.form.get("controller")
+        p = request.form.get("presenter")
         
-        if c != False:
+        if c is not None:
             return redirect(url_for("controller"))
         
-        if p != False:
+        if p is not None:
             return redirect(url_for("presenter"))
         
         team_name = request.form.get("team_name").upper()

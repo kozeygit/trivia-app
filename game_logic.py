@@ -7,9 +7,8 @@ filename = os.path.join(dirname, "questions/ff_questions.json")
 
 
 class Question:
-    file = open(filename, encoding="utf8")
-    json_data = file.read()
-    file.close()
+    with open(filename, encoding="utf8") as file:
+        json_data = file.read()
 
     ALL_QUESTIONS = json.loads(json_data)
 
@@ -69,7 +68,3 @@ class Round:
 
     def deactivate_buzzers(self):
         self.buzzers_active = False
-
-
-def generate_id():
-    return randint(1, 999)
